@@ -2,7 +2,7 @@
 
 ## contents
 
-##### last updated: Sat, 02 Mar 2024 23:16:57 UTC
+##### last updated: Sat, 02 Mar 2024 23:17:27 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -10,7 +10,7 @@
 | [azure.json](azure.json)  | Microsoft Azure |  cloud | [source](https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519) |  
 | [fastly.json](fastly.json)  | Fastly |  cdn | [source](https://www.fastly.com/documentation/reference/api/utils/public-ip-list/) |  
 | [gcp.json](gcp.json)  | Google Cloud Platform |  cloud | [source](https://cloud.google.com/compute/docs/faq#find_ip_range) |  
-| [google.json](google.json)  | Google |  hosting | source](-) |  
+| [google.json](google.json)  | Google |  hosting | [source](-) |  
 | [linode.json](linode.json)  | Linode  |  hosting | [source](-) |  
 
 
