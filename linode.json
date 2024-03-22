@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-03-21T10:00:04Z",
-  "ETag": "\"65fc0524-1f3e3\"",
+  "LastModified": "2024-03-22T10:00:04Z",
+  "ETag": "\"65fd56a4-1f3e3\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -19339,14 +19339,6 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.233.210.0/24",
-      "PrefixText": "172.233.210.0/24",
-      "Country": "US",
-      "Subdivision": "US-IL",
-      "City": "Chicago",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.233.211.0/24",
       "PrefixText": "172.233.211.0/24",
       "Country": "US",
@@ -28976,6 +28968,14 @@
       "Country": "US",
       "Subdivision": "US-VA",
       "City": "Ashburn",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.233.210.0/24",
+      "PrefixText": "172.233.210.0/24",
+      "Country": "US",
+      "Subdivision": "US-IL",
+      "City": "Chicago",
       "PostalCode": ""
     },
     {
