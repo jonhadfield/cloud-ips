@@ -2,7 +2,7 @@
 
 ## contents
 
-##### last updated: Sat, 01 Jun 2024 21:13:05 UTC
+##### last updated: Sat, 01 Jun 2024 21:17:32 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -13,7 +13,6 @@
 | [gcp.json](gcp.json)  | Google Cloud Platform |  cloud | [source](https://cloud.google.com/compute/docs/faq#find_ip_range) |  
 | [google.json](google.json)  | Google |  hosting | [source](https://support.google.com/a/answer/10026322) |  
 | [googlebot.json](googlebot.json)  | Google Crawler Bots |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
-| [googlesc.json](googlesc.json)  | Google Special Crawlers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [googleutf.json](googleutf.json)  | Google User-Triggered Fetchers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [linode.json](linode.json)  | Linode |  hosting | [source](-) |  
 | [oci.json](oci.json)  | Oracle Cloud Infrastructure |  hosting | [source](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/addressranges.htm) |  
