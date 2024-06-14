@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-06-13T10:00:05Z",
-  "ETag": "\"666ac325-2046f\"",
+  "LastModified": "2024-06-14T10:00:04Z",
+  "ETag": "\"666c14a4-20493\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -23427,14 +23427,6 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.236.68.0/24",
-      "PrefixText": "172.236.68.0/24",
-      "Country": "IN",
-      "Subdivision": "IN-TN",
-      "City": "Chennai",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.236.69.0/24",
       "PrefixText": "172.236.69.0/24",
       "Country": "IN",
@@ -24003,6 +23995,14 @@
       "PostalCode": ""
     },
     {
+      "Prefix": "172.233.30.0/24",
+      "PrefixText": "172.233.30.0/24",
+      "Country": "BR",
+      "Subdivision": "BR-SP",
+      "City": "Sao Paulo",
+      "PostalCode": ""
+    },
+    {
       "Prefix": "172.233.126.0/24",
       "PrefixText": "172.233.126.0/24",
       "Country": "ES",
@@ -24088,6 +24088,14 @@
       "Country": "NL",
       "Subdivision": "NL-NH",
       "City": "Amsterdam",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.68.0/24",
+      "PrefixText": "172.236.68.0/24",
+      "Country": "IN",
+      "Subdivision": "IN-TN",
+      "City": "Chennai",
       "PostalCode": ""
     },
     {
