@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-06-18T10:00:04Z",
-  "ETag": "\"66715aa4-20493\"",
+  "LastModified": "2024-06-18T14:28:45Z",
+  "ETag": "\"6671999d-205dd\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -232,6 +232,14 @@
       "Country": "AU",
       "Subdivision": "AU-VIC",
       "City": "Melbourne",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "2600:3c15::/32",
+      "PrefixText": "2600:3c15::/32",
+      "Country": "SG",
+      "Subdivision": "SG-SIN",
+      "City": "Singapore",
       "PostalCode": ""
     },
     {
@@ -22062,7 +22070,7 @@
       "Prefix": "172.235.106.0/24",
       "PrefixText": "172.235.106.0/24",
       "Country": "HK",
-      "Subdivision": "CN-HK",
+      "Subdivision": "",
       "City": "Hong Kong",
       "PostalCode": ""
     },
@@ -22070,7 +22078,7 @@
       "Prefix": "172.235.107.0/24",
       "PrefixText": "172.235.107.0/24",
       "Country": "HK",
-      "Subdivision": "CN-HK",
+      "Subdivision": "",
       "City": "Hong Kong",
       "PostalCode": ""
     },
@@ -23904,6 +23912,38 @@
       "Country": "US",
       "Subdivision": "US-IL",
       "City": "Chicago",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.128.0/24",
+      "PrefixText": "172.236.128.0/24",
+      "Country": "SG",
+      "Subdivision": "SG-SIN",
+      "City": "Singapore",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.129.0/24",
+      "PrefixText": "172.236.129.0/24",
+      "Country": "SG",
+      "Subdivision": "SG-SIN",
+      "City": "Singapore",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.130.0/24",
+      "PrefixText": "172.236.130.0/24",
+      "Country": "SG",
+      "Subdivision": "SG-SIN",
+      "City": "Singapore",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.131.0/24",
+      "PrefixText": "172.236.131.0/24",
+      "Country": "SG",
+      "Subdivision": "SG-SIN",
+      "City": "Singapore",
       "PostalCode": ""
     },
     {
@@ -29960,6 +30000,38 @@
       "Country": "IN",
       "Subdivision": "IN-TN",
       "City": "Chennai",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.132.0/24",
+      "PrefixText": "172.236.132.0/24",
+      "Country": "SG",
+      "Subdivision": "SG-SIN",
+      "City": "Singapore",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.133.0/24",
+      "PrefixText": "172.236.133.0/24",
+      "Country": "SG",
+      "Subdivision": "SG-SIN",
+      "City": "Singapore",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.134.0/24",
+      "PrefixText": "172.236.134.0/24",
+      "Country": "SG",
+      "Subdivision": "SG-SIN",
+      "City": "Singapore",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.135.0/24",
+      "PrefixText": "172.236.135.0/24",
+      "Country": "SG",
+      "Subdivision": "SG-SIN",
+      "City": "Singapore",
       "PostalCode": ""
     },
     {
