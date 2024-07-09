@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-07-08T10:00:05Z",
-  "ETag": "\"668bb8a5-20bf9\"",
+  "LastModified": "2024-07-09T10:00:04Z",
+  "ETag": "\"668d0a24-20ab0\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -22003,24 +22003,8 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.235.97.0/24",
-      "PrefixText": "172.235.97.0/24",
-      "Country": "US",
-      "Subdivision": "US-CO",
-      "City": "Denver",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.235.98.0/24",
       "PrefixText": "172.235.98.0/24",
-      "Country": "DE",
-      "Subdivision": "DE-HA",
-      "City": "Hamburg",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.99.0/24",
-      "PrefixText": "172.235.99.0/24",
       "Country": "DE",
       "Subdivision": "DE-HA",
       "City": "Hamburg",
@@ -22035,14 +22019,6 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.235.101.0/24",
-      "PrefixText": "172.235.101.0/24",
-      "Country": "FR",
-      "Subdivision": "FR-13",
-      "City": "Marseille",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.235.102.0/24",
       "PrefixText": "172.235.102.0/24",
       "Country": "ZA",
@@ -22051,24 +22027,8 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.235.103.0/24",
-      "PrefixText": "172.235.103.0/24",
-      "Country": "ZA",
-      "Subdivision": "ZA-GP",
-      "City": "Johannesburg",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.235.104.0/24",
       "PrefixText": "172.235.104.0/24",
-      "Country": "MY",
-      "Subdivision": "MY-13",
-      "City": "Kuala Lumpur",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.105.0/24",
-      "PrefixText": "172.235.105.0/24",
       "Country": "MY",
       "Subdivision": "MY-13",
       "City": "Kuala Lumpur",
@@ -22099,24 +22059,8 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.235.109.0/24",
-      "PrefixText": "172.235.109.0/24",
-      "Country": "CO",
-      "Subdivision": "CO-DC",
-      "City": "Bogotá",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.235.110.0/24",
       "PrefixText": "172.235.110.0/24",
-      "Country": "MX",
-      "Subdivision": "MX-QUE",
-      "City": "Querétaro",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.111.0/24",
-      "PrefixText": "172.235.111.0/24",
       "Country": "MX",
       "Subdivision": "MX-QUE",
       "City": "Querétaro",
@@ -22131,24 +22075,8 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.235.113.0/24",
-      "PrefixText": "172.235.113.0/24",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.235.114.0/24",
       "PrefixText": "172.235.114.0/24",
-      "Country": "CL",
-      "Subdivision": "CL-RM",
-      "City": "Santiago",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.115.0/24",
-      "PrefixText": "172.235.115.0/24",
       "Country": "CL",
       "Subdivision": "CL-RM",
       "City": "Santiago",
