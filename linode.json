@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-07-09T10:00:04Z",
-  "ETag": "\"668d0a24-20ab0\"",
+  "LastModified": "2024-07-10T10:00:04Z",
+  "ETag": "\"668e5ba4-20afa\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -24200,6 +24200,22 @@
       "Country": "IN",
       "Subdivision": "IN-MH",
       "City": "Mumbai",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.118.0/24",
+      "PrefixText": "172.235.118.0/24",
+      "Country": "NZ",
+      "Subdivision": "NZ-AUK",
+      "City": "Auckland",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.119.0/24",
+      "PrefixText": "172.235.119.0/24",
+      "Country": "NZ",
+      "Subdivision": "NZ-AUK",
+      "City": "Auckland",
       "PostalCode": ""
     },
     {
