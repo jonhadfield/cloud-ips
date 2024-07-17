@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-07-16T10:00:06Z",
-  "ETag": "\"669644a6-20afa\"",
+  "LastModified": "2024-07-17T10:00:05Z",
+  "ETag": "\"66979625-20ad8\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -23645,14 +23645,6 @@
     {
       "Prefix": "172.236.92.0/24",
       "PrefixText": "172.236.92.0/24",
-      "Country": "IN",
-      "Subdivision": "IN-TN",
-      "City": "Chennai",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.236.93.0/24",
-      "PrefixText": "172.236.93.0/24",
       "Country": "IN",
       "Subdivision": "IN-TN",
       "City": "Chennai",
