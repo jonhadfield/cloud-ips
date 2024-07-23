@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-07-22T10:00:05Z",
-  "ETag": "\"669e2da5-21c13\"",
+  "LastModified": "2024-07-23T10:00:05Z",
+  "ETag": "\"669f7f25-21c9f\"",
   "Records": [
     {
       "Prefix": "64.62.190.0/24",
@@ -27917,6 +27917,38 @@
     {
       "Prefix": "172.235.251.0/24",
       "PrefixText": "172.235.251.0/24",
+      "Country": "ID",
+      "Subdivision": "ID-JK",
+      "City": "Jakarta",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.252.0/24",
+      "PrefixText": "172.235.252.0/24",
+      "Country": "ID",
+      "Subdivision": "ID-JK",
+      "City": "Jakarta",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.253.0/24",
+      "PrefixText": "172.235.253.0/24",
+      "Country": "ID",
+      "Subdivision": "ID-JK",
+      "City": "Jakarta",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.254.0/24",
+      "PrefixText": "172.235.254.0/24",
+      "Country": "ID",
+      "Subdivision": "ID-JK",
+      "City": "Jakarta",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.255.0/24",
+      "PrefixText": "172.235.255.0/24",
       "Country": "ID",
       "Subdivision": "ID-JK",
       "City": "Jakarta",
