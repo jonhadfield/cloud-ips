@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-08-09T10:00:05Z",
-  "ETag": "\"66b5e8a5-22216\"",
+  "LastModified": "2024-08-09T17:25:29Z",
+  "ETag": "\"66b65109-2223c\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -29605,6 +29605,14 @@
     {
       "Prefix": "172.236.131.0/24",
       "PrefixText": "172.236.131.0/24",
+      "Country": "SG",
+      "Subdivision": "SG-SIN",
+      "City": "Singapore",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.136.0/24",
+      "PrefixText": "172.236.136.0/24",
       "Country": "SG",
       "Subdivision": "SG-SIN",
       "City": "Singapore",
