@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-08-15T10:00:04Z",
-  "ETag": "\"66bdd1a4-2223c\"",
+  "LastModified": "2024-08-16T10:00:05Z",
+  "ETag": "\"66bf2325-22089\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -435,22 +435,6 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "2600:3c12:a00::/40",
-      "PrefixText": "2600:3c12:0a00::/40",
-      "Country": "US",
-      "Subdivision": "US-CO",
-      "City": "Denver",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c0f:34::/48",
-      "PrefixText": "2600:3c0f:34::/48",
-      "Country": "US",
-      "Subdivision": "US-CO",
-      "City": "Denver",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "2600:3c12:100::/40",
       "PrefixText": "2600:3c12:0100::/40",
       "Country": "DE",
@@ -464,22 +448,6 @@
       "Country": "DE",
       "Subdivision": "DE-HH",
       "City": "Hamburg",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c12:200::/40",
-      "PrefixText": "2600:3c12:0200::/40",
-      "Country": "FR",
-      "Subdivision": "FR-13",
-      "City": "Marseille",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c0f:36::/48",
-      "PrefixText": "2600:3c0f:36::/48",
-      "Country": "FR",
-      "Subdivision": "FR-13",
-      "City": "Marseille",
       "PostalCode": ""
     },
     {
@@ -515,22 +483,6 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "2600:3c12:700::/40",
-      "PrefixText": "2600:3c12:0700::/40",
-      "Country": "CO",
-      "Subdivision": "CO-DC",
-      "City": "Bogota",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c0f:40::/48",
-      "PrefixText": "2600:3c0f:40::/48",
-      "Country": "CO",
-      "Subdivision": "CO-DC",
-      "City": "Bogota",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "2600:3c12:800::/40",
       "PrefixText": "2600:3c12:0800::/40",
       "Country": "MX",
@@ -544,22 +496,6 @@
       "Country": "MX",
       "Subdivision": "MX-QUE",
       "City": "Queretaro",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c12:300::/40",
-      "PrefixText": "2600:3c12:0300::/40",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c0f:42::/48",
-      "PrefixText": "2600:3c0f:42::/48",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
       "PostalCode": ""
     },
     {
@@ -27595,27 +27531,11 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.235.96.0/24",
-      "PrefixText": "172.235.96.0/24",
-      "Country": "US",
-      "Subdivision": "US-CO",
-      "City": "Denver",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.235.98.0/24",
       "PrefixText": "172.235.98.0/24",
       "Country": "DE",
       "Subdivision": "DE-HH",
       "City": "Hamburg",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.100.0/24",
-      "PrefixText": "172.235.100.0/24",
-      "Country": "FR",
-      "Subdivision": "FR-13",
-      "City": "Marseille",
       "PostalCode": ""
     },
     {
@@ -27635,27 +27555,11 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.235.108.0/24",
-      "PrefixText": "172.235.108.0/24",
-      "Country": "CO",
-      "Subdivision": "CO-DC",
-      "City": "Bogota",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.235.110.0/24",
       "PrefixText": "172.235.110.0/24",
       "Country": "MX",
       "Subdivision": "MX-QUE",
       "City": "Queretaro",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.112.0/24",
-      "PrefixText": "172.235.112.0/24",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
       "PostalCode": ""
     },
     {
