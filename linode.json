@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-08-17T10:00:05Z",
-  "ETag": "\"66c074a5-22089\"",
+  "LastModified": "2024-08-19T10:00:08Z",
+  "ETag": "\"66c317a8-220ab\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -592,6 +592,14 @@
       "Country": "SG",
       "Subdivision": "SG-SIN",
       "City": "Singapore",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "2600:3c0f:49::/48",
+      "PrefixText": "2600:3c0f:49::/48",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
       "PostalCode": ""
     },
     {
