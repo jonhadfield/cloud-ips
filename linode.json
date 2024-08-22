@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-08-21T10:00:05Z",
-  "ETag": "\"66c5baa5-220ab\"",
+  "LastModified": "2024-08-22T10:00:04Z",
+  "ETag": "\"66c70c24-22200\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -592,6 +592,14 @@
       "Country": "SG",
       "Subdivision": "SG-SIN",
       "City": "Singapore",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "2600:3c18::/32",
+      "PrefixText": "2600:3c18::/32",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
       "PostalCode": ""
     },
     {
@@ -30251,6 +30259,54 @@
       "PostalCode": ""
     },
     {
+      "Prefix": "172.237.4.0/24",
+      "PrefixText": "172.237.4.0/24",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.237.5.0/24",
+      "PrefixText": "172.237.5.0/24",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.237.6.0/24",
+      "PrefixText": "172.237.6.0/24",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.237.7.0/24",
+      "PrefixText": "172.237.7.0/24",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.237.8.0/24",
+      "PrefixText": "172.237.8.0/24",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.237.9.0/24",
+      "PrefixText": "172.237.9.0/24",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
+      "PostalCode": ""
+    },
+    {
       "Prefix": "69.164.223.0/24",
       "PrefixText": "69.164.223.0/24",
       "Country": "US",
@@ -31640,6 +31696,38 @@
       "Country": "DE",
       "Subdivision": "DE-HE",
       "City": "Frankfurt",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.237.0.0/24",
+      "PrefixText": "172.237.0.0/24",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.237.1.0/24",
+      "PrefixText": "172.237.1.0/24",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.237.2.0/24",
+      "PrefixText": "172.237.2.0/24",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.237.3.0/24",
+      "PrefixText": "172.237.3.0/24",
+      "Country": "JP",
+      "Subdivision": "JP-13",
+      "City": "Tokyo",
       "PostalCode": ""
     }
   ]
