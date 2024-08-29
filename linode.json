@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-08-28T10:00:05Z",
-  "ETag": "\"66cef525-2256a\"",
+  "LastModified": "2024-08-29T10:00:05Z",
+  "ETag": "\"66d046a5-22459\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -400,22 +400,6 @@
       "Country": "US",
       "Subdivision": "US-CA",
       "City": "Los Angeles",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c10::/32",
-      "PrefixText": "2600:3c10::/32",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c0f:31::/48",
-      "PrefixText": "2600:3c0f:31::/48",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
       "PostalCode": ""
     },
     {
@@ -27515,38 +27499,6 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.235.64.0/24",
-      "PrefixText": "172.235.64.0/24",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.65.0/24",
-      "PrefixText": "172.235.65.0/24",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.66.0/24",
-      "PrefixText": "172.235.66.0/24",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.67.0/24",
-      "PrefixText": "172.235.67.0/24",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.235.98.0/24",
       "PrefixText": "172.235.98.0/24",
       "Country": "DE",
@@ -31640,22 +31592,6 @@
       "Country": "US",
       "Subdivision": "US-IL",
       "City": "Chicago",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.68.0/24",
-      "PrefixText": "172.235.68.0/24",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.69.0/24",
-      "PrefixText": "172.235.69.0/24",
-      "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Houston",
       "PostalCode": ""
     },
     {
