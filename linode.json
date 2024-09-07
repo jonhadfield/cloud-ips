@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-09-06T10:00:04Z",
-  "ETag": "\"66dad2a4-22459\"",
+  "LastModified": "2024-09-07T10:00:05Z",
+  "ETag": "\"66dc2425-2220f\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -416,86 +416,6 @@
       "Country": "NZ",
       "Subdivision": "NZ-AUK",
       "City": "Auckland",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c12:100::/40",
-      "PrefixText": "2600:3c12:0100::/40",
-      "Country": "DE",
-      "Subdivision": "DE-HH",
-      "City": "Hamburg",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c0f:35::/48",
-      "PrefixText": "2600:3c0f:35::/48",
-      "Country": "DE",
-      "Subdivision": "DE-HH",
-      "City": "Hamburg",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c12:400::/40",
-      "PrefixText": "2600:3c12:0400::/40",
-      "Country": "ZA",
-      "Subdivision": "ZA-GP",
-      "City": "Johannesburg",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c0f:37::/48",
-      "PrefixText": "2600:3c0f:37::/48",
-      "Country": "ZA",
-      "Subdivision": "ZA-GP",
-      "City": "Johannesburg",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c12:500::/40",
-      "PrefixText": "2600:3c12:0500::/40",
-      "Country": "MY",
-      "Subdivision": "MY-14",
-      "City": "Kuala Lumpur",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c0f:38::/48",
-      "PrefixText": "2600:3c0f:38::/48",
-      "Country": "MY",
-      "Subdivision": "MY-14",
-      "City": "Kuala Lumpur",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c12:800::/40",
-      "PrefixText": "2600:3c12:0800::/40",
-      "Country": "MX",
-      "Subdivision": "MX-QUE",
-      "City": "Queretaro",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c0f:41::/48",
-      "PrefixText": "2600:3c0f:41::/48",
-      "Country": "MX",
-      "Subdivision": "MX-QUE",
-      "City": "Queretaro",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c12:900::/40",
-      "PrefixText": "2600:3c12:0900::/40",
-      "Country": "CL",
-      "Subdivision": "CL-RM",
-      "City": "Santiago",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "2600:3c0f:43::/48",
-      "PrefixText": "2600:3c0f:43::/48",
-      "Country": "CL",
-      "Subdivision": "CL-RM",
-      "City": "Santiago",
       "PostalCode": ""
     },
     {
@@ -27496,46 +27416,6 @@
       "Country": "US",
       "Subdivision": "US-VA",
       "City": "Ashburn",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.98.0/24",
-      "PrefixText": "172.235.98.0/24",
-      "Country": "DE",
-      "Subdivision": "DE-HH",
-      "City": "Hamburg",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.102.0/24",
-      "PrefixText": "172.235.102.0/24",
-      "Country": "ZA",
-      "Subdivision": "ZA-GP",
-      "City": "Johannesburg",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.104.0/24",
-      "PrefixText": "172.235.104.0/24",
-      "Country": "MY",
-      "Subdivision": "MY-14",
-      "City": "Kuala Lumpur",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.110.0/24",
-      "PrefixText": "172.235.110.0/24",
-      "Country": "MX",
-      "Subdivision": "MX-QUE",
-      "City": "Queretaro",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.114.0/24",
-      "PrefixText": "172.235.114.0/24",
-      "Country": "CL",
-      "Subdivision": "CL-RM",
-      "City": "Santiago",
       "PostalCode": ""
     },
     {
