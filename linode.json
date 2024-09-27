@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-09-26T10:00:05Z",
-  "ETag": "\"66f530a5-223c2\"",
+  "LastModified": "2024-09-27T10:00:05Z",
+  "ETag": "\"66f68225-223e3\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -28229,6 +28229,14 @@
     {
       "Prefix": "172.235.218.0/24",
       "PrefixText": "172.235.218.0/24",
+      "Country": "JP",
+      "Subdivision": "JP-27",
+      "City": "Osaka",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.219.0/24",
+      "PrefixText": "172.235.219.0/24",
       "Country": "JP",
       "Subdivision": "JP-27",
       "City": "Osaka",
