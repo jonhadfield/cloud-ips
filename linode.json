@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-10-02T10:00:04Z",
-  "ETag": "\"66fd19a4-223e3\"",
+  "LastModified": "2024-10-03T10:00:04Z",
+  "ETag": "\"66fe6b24-223be\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -29885,14 +29885,6 @@
     {
       "Prefix": "172.235.118.0/24",
       "PrefixText": "172.235.118.0/24",
-      "Country": "NZ",
-      "Subdivision": "NZ-AUK",
-      "City": "Auckland",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.235.119.0/24",
-      "PrefixText": "172.235.119.0/24",
       "Country": "NZ",
       "Subdivision": "NZ-AUK",
       "City": "Auckland",
