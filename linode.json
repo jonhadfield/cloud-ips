@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-10-09T10:00:04Z",
-  "ETag": "\"67065424-22516\"",
+  "LastModified": "2024-10-10T10:00:04Z",
+  "ETag": "\"6707a5a4-2258c\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -496,6 +496,22 @@
       "Country": "CO",
       "Subdivision": "CO-DC",
       "City": "Bogota",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "2600:3c12:800::/40",
+      "PrefixText": "2600:3c12:0800::/40",
+      "Country": "MX",
+      "Subdivision": "MX-QUE",
+      "City": "Queretaro",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "2600:3c0f:41::/48",
+      "PrefixText": "2600:3c0f:41::/48",
+      "Country": "MX",
+      "Subdivision": "MX-QUE",
+      "City": "Queretaro",
       "PostalCode": ""
     },
     {
@@ -27568,6 +27584,14 @@
       "Country": "CO",
       "Subdivision": "CO-DC",
       "City": "Bogota",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.110.0/24",
+      "PrefixText": "172.235.110.0/24",
+      "Country": "MX",
+      "Subdivision": "MX-QUE",
+      "City": "Queretaro",
       "PostalCode": ""
     },
     {
