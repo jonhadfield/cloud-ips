@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-10-11T10:00:04Z",
-  "ETag": "\"6708f724-2258c\"",
+  "LastModified": "2024-10-12T10:00:05Z",
+  "ETag": "\"670a48a5-22774\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -480,6 +480,22 @@
       "Country": "ZA",
       "Subdivision": "ZA-GP",
       "City": "Johannesburg",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "2600:3c12:500::/40",
+      "PrefixText": "2600:3c12:0500::/40",
+      "Country": "MY",
+      "Subdivision": "MY-14",
+      "City": "Kuala Lumpur",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "2600:3c0f:38::/48",
+      "PrefixText": "2600:3c0f:38::/48",
+      "Country": "MY",
+      "Subdivision": "MY-14",
+      "City": "Kuala Lumpur",
       "PostalCode": ""
     },
     {
@@ -27555,8 +27571,24 @@
       "PostalCode": ""
     },
     {
+      "Prefix": "172.235.97.0/24",
+      "PrefixText": "172.235.97.0/24",
+      "Country": "US",
+      "Subdivision": "US-CO",
+      "City": "Denver",
+      "PostalCode": ""
+    },
+    {
       "Prefix": "172.235.98.0/24",
       "PrefixText": "172.235.98.0/24",
+      "Country": "DE",
+      "Subdivision": "DE-HH",
+      "City": "Hamburg",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.99.0/24",
+      "PrefixText": "172.235.99.0/24",
       "Country": "DE",
       "Subdivision": "DE-HH",
       "City": "Hamburg",
@@ -27571,6 +27603,14 @@
       "PostalCode": ""
     },
     {
+      "Prefix": "172.235.101.0/24",
+      "PrefixText": "172.235.101.0/24",
+      "Country": "FR",
+      "Subdivision": "FR-13",
+      "City": "Marseille",
+      "PostalCode": ""
+    },
+    {
       "Prefix": "172.235.102.0/24",
       "PrefixText": "172.235.102.0/24",
       "Country": "ZA",
@@ -27579,8 +27619,40 @@
       "PostalCode": ""
     },
     {
+      "Prefix": "172.235.103.0/24",
+      "PrefixText": "172.235.103.0/24",
+      "Country": "ZA",
+      "Subdivision": "ZA-GP",
+      "City": "Johannesburg",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.104.0/24",
+      "PrefixText": "172.235.104.0/24",
+      "Country": "MY",
+      "Subdivision": "MY-14",
+      "City": "Kuala Lumpur",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.105.0/24",
+      "PrefixText": "172.235.105.0/24",
+      "Country": "MY",
+      "Subdivision": "MY-14",
+      "City": "Kuala Lumpur",
+      "PostalCode": ""
+    },
+    {
       "Prefix": "172.235.108.0/24",
       "PrefixText": "172.235.108.0/24",
+      "Country": "CO",
+      "Subdivision": "CO-DC",
+      "City": "Bogota",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.109.0/24",
+      "PrefixText": "172.235.109.0/24",
       "Country": "CO",
       "Subdivision": "CO-DC",
       "City": "Bogota",
@@ -27595,6 +27667,14 @@
       "PostalCode": ""
     },
     {
+      "Prefix": "172.235.111.0/24",
+      "PrefixText": "172.235.111.0/24",
+      "Country": "MX",
+      "Subdivision": "MX-QUE",
+      "City": "Queretaro",
+      "PostalCode": ""
+    },
+    {
       "Prefix": "172.235.112.0/24",
       "PrefixText": "172.235.112.0/24",
       "Country": "US",
@@ -27603,8 +27683,24 @@
       "PostalCode": ""
     },
     {
+      "Prefix": "172.235.113.0/24",
+      "PrefixText": "172.235.113.0/24",
+      "Country": "US",
+      "Subdivision": "US-TX",
+      "City": "Houston",
+      "PostalCode": ""
+    },
+    {
       "Prefix": "172.235.114.0/24",
       "PrefixText": "172.235.114.0/24",
+      "Country": "CL",
+      "Subdivision": "CL-RM",
+      "City": "Santiago",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.115.0/24",
+      "PrefixText": "172.235.115.0/24",
       "Country": "CL",
       "Subdivision": "CL-RM",
       "City": "Santiago",
@@ -29981,6 +30077,14 @@
     {
       "Prefix": "172.235.118.0/24",
       "PrefixText": "172.235.118.0/24",
+      "Country": "NZ",
+      "Subdivision": "NZ-AUK",
+      "City": "Auckland",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.235.119.0/24",
+      "PrefixText": "172.235.119.0/24",
       "Country": "NZ",
       "Subdivision": "NZ-AUK",
       "City": "Auckland",
