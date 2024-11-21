@@ -1,6 +1,6 @@
 {
-  "LastModified": "2024-11-20T10:00:04Z",
-  "ETag": "\"673db324-22c44\"",
+  "LastModified": "2024-11-21T10:00:05Z",
+  "ETag": "\"673f04a5-22c46\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -4318,8 +4318,8 @@
       "Prefix": "198.58.101.0/24",
       "PrefixText": "198.58.101.0/24",
       "Country": "US",
-      "Subdivision": "US-TX",
-      "City": "Richardson",
+      "Subdivision": "US-NJ",
+      "City": "Cedar Knolls",
       "PostalCode": ""
     },
     {
