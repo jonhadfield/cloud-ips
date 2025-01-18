@@ -1,6 +1,6 @@
 {
-  "LastModified": "2025-01-17T10:00:05Z",
-  "ETag": "\"678a2a25-22c46\"",
+  "LastModified": "2025-01-18T10:00:05Z",
+  "ETag": "\"678b7ba5-22c46\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -24923,22 +24923,6 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.236.120.0/24",
-      "PrefixText": "172.236.120.0/24",
-      "Country": "US",
-      "Subdivision": "US-IL",
-      "City": "Chicago",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.236.121.0/24",
-      "PrefixText": "172.236.121.0/24",
-      "Country": "US",
-      "Subdivision": "US-IL",
-      "City": "Chicago",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.236.122.0/24",
       "PrefixText": "172.236.122.0/24",
       "Country": "US",
@@ -25053,6 +25037,22 @@
     {
       "Prefix": "172.233.210.0/24",
       "PrefixText": "172.233.210.0/24",
+      "Country": "US",
+      "Subdivision": "US-IL",
+      "City": "Chicago",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.120.0/24",
+      "PrefixText": "172.236.120.0/24",
+      "Country": "US",
+      "Subdivision": "US-IL",
+      "City": "Chicago",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.236.121.0/24",
+      "PrefixText": "172.236.121.0/24",
       "Country": "US",
       "Subdivision": "US-IL",
       "City": "Chicago",
