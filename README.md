@@ -2,11 +2,10 @@
 
 ## contents
 
-##### last updated: Mon, 20 Jan 2025 12:00:27 UTC
+##### last updated: Tue, 21 Jan 2025 00:05:40 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
-| [aws.json](aws.json)  | Amazon Web Services |  cloud | [source](https://docs.aws.amazon.com/vpc/latest/userguide/aws-ip-ranges.html) |  
 | [cloudflare.json](cloudflare.json)  | Cloudflare |  cdn | [source](https://www.cloudflare.com/en-gb/ips/) |  
 | [fastly.json](fastly.json)  | Fastly |  cdn | [source](https://www.fastly.com/documentation/reference/api/utils/public-ip-list/) |  
 | [gcp.json](gcp.json)  | Google Cloud Platform |  cloud | [source](https://cloud.google.com/compute/docs/faq#find_ip_range) |  
