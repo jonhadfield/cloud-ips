@@ -1,6 +1,6 @@
 {
-  "LastModified": "2025-01-27T10:00:06Z",
-  "ETag": "\"67975926-23782\"",
+  "LastModified": "2025-01-28T10:00:08Z",
+  "ETag": "\"6798aaa8-23783\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -2925,6 +2925,14 @@
     {
       "Prefix": "172.105.137.0/24",
       "PrefixText": "172.105.137.0/24",
+      "Country": "US",
+      "Subdivision": "US-TX",
+      "City": "Richardson",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.105.117.0/24",
+      "PrefixText": "172.105.117.0/24",
       "Country": "US",
       "Subdivision": "US-TX",
       "City": "Richardson",
@@ -14741,14 +14749,6 @@
     {
       "Prefix": "172.105.116.0/24",
       "PrefixText": "172.105.116.0/24",
-      "Country": "SG",
-      "Subdivision": "SG-04",
-      "City": "Singapore",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.105.117.0/24",
-      "PrefixText": "172.105.117.0/24",
       "Country": "SG",
       "Subdivision": "SG-04",
       "City": "Singapore",
