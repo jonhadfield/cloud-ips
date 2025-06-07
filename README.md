@@ -2,10 +2,11 @@
 
 ## contents
 
-##### last updated: Sat, 07 Jun 2025 22:00:25 UTC
+##### last updated: Sat, 07 Jun 2025 22:03:13 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
+| [alibaba.json](alibaba.json)  | Alibaba |  hosting | [source](https://www.alibaba.com/) |  
 | [aws.json](aws.json)  | Amazon Web Services |  cloud | [source](https://docs.aws.amazon.com/vpc/latest/userguide/aws-ip-ranges.html) |  
 | [azure.json](azure.json)  | Microsoft Azure |  cloud | [source](https://www.microsoft.com/en-gb/download/details.aspx?id=56519) |  
 | [cloudflare.json](cloudflare.json)  | Cloudflare |  cdn | [source](https://www.cloudflare.com/en-gb/ips/) |  
