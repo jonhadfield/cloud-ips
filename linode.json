@@ -1,6 +1,6 @@
 {
-  "LastModified": "2025-06-07T11:00:05+01:00",
-  "ETag": "\"68440da5-26cce\"",
+  "LastModified": "2025-06-14T11:00:05+01:00",
+  "ETag": "\"684d4825-26cce\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -35891,22 +35891,6 @@
       "PostalCode": ""
     },
     {
-      "Prefix": "172.238.128.0/24",
-      "PrefixText": "172.238.128.0/24",
-      "Alpha2Code": "NO",
-      "Region": "NO-03",
-      "City": "Oslo",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.238.129.0/24",
-      "PrefixText": "172.238.129.0/24",
-      "Alpha2Code": "NO",
-      "Region": "NO-03",
-      "City": "Oslo",
-      "PostalCode": ""
-    },
-    {
       "Prefix": "172.238.130.0/24",
       "PrefixText": "172.238.130.0/24",
       "Alpha2Code": "NO",
@@ -35917,14 +35901,6 @@
     {
       "Prefix": "172.238.131.0/24",
       "PrefixText": "172.238.131.0/24",
-      "Alpha2Code": "NO",
-      "Region": "NO-03",
-      "City": "Oslo",
-      "PostalCode": ""
-    },
-    {
-      "Prefix": "172.238.132.0/24",
-      "PrefixText": "172.238.132.0/24",
       "Alpha2Code": "NO",
       "Region": "NO-03",
       "City": "Oslo",
@@ -36141,6 +36117,30 @@
     {
       "Prefix": "172.238.159.0/24",
       "PrefixText": "172.238.159.0/24",
+      "Alpha2Code": "NO",
+      "Region": "NO-03",
+      "City": "Oslo",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.238.128.0/24",
+      "PrefixText": "172.238.128.0/24",
+      "Alpha2Code": "NO",
+      "Region": "NO-03",
+      "City": "Oslo",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.238.129.0/24",
+      "PrefixText": "172.238.129.0/24",
+      "Alpha2Code": "NO",
+      "Region": "NO-03",
+      "City": "Oslo",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "172.238.132.0/24",
+      "PrefixText": "172.238.132.0/24",
       "Alpha2Code": "NO",
       "Region": "NO-03",
       "City": "Oslo",
