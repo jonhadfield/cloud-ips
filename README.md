@@ -5,13 +5,12 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Sat, 14 Jun 2025 15:44:40 UTC
+##### last updated: Sun, 09 Nov 2025 12:26:12 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
 | [alibaba.json](alibaba.json)  | Alibaba |  hosting | [source](https://www.alibaba.com/) |  
 | [aws.json](aws.json)  | Amazon Web Services |  cloud | [source](https://docs.aws.amazon.com/vpc/latest/userguide/aws-ip-ranges.html) |  
-| [azure.json](azure.json)  | Microsoft Azure |  cloud | [source](https://www.microsoft.com/en-gb/download/details.aspx?id=56519) |  
 | [cloudflare.json](cloudflare.json)  | Cloudflare |  cdn | [source](https://www.cloudflare.com/en-gb/ips/) |  
 | [fastly.json](fastly.json)  | Fastly |  cdn | [source](https://www.fastly.com/documentation/reference/api/utils/public-ip-list/) |  
 | [gcp.json](gcp.json)  | Google Cloud Platform |  cloud | [source](https://cloud.google.com/compute/docs/faq#find_ip_range) |  
@@ -25,6 +24,7 @@ can be used to keep firewall rules or network filters up to date.
 | [oci.json](oci.json)  | Oracle Cloud Infrastructure |  hosting | [source](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/addressranges.htm) |  
 | [ovh.json](ovh.json)  | OVH |  hosting | [source](https://www.ovh.com/) |  
 | [scaleway.json](scaleway.json)  | Scaleway |  hosting | [source](https://www.scaleway.com/) |  
+| [vultr.json](vultr.json)  | Vultr |  hosting | [source](https://www.vultr.com/) |  
 | [zscaler.json](zscaler.json)  | Zscaler |  security | [source](https://www.zscaler.com) |  
 
 
