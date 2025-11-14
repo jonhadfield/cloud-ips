@@ -1,6 +1,6 @@
 {
-  "LastModified": "2025-11-12T10:00:04Z",
-  "ETag": "\"69145aa4-2abac\"",
+  "LastModified": "2025-11-14T10:00:04Z",
+  "ETag": "\"6916fda4-2abce\"",
   "Records": [
     {
       "Prefix": "2600:3c00::/32",
@@ -26653,6 +26653,14 @@
     {
       "Prefix": "172.239.223.0/24",
       "PrefixText": "172.239.223.0/24",
+      "Alpha2Code": "US",
+      "Region": "US-IL",
+      "City": "Chicago",
+      "PostalCode": ""
+    },
+    {
+      "Prefix": "104.64.224.0/19",
+      "PrefixText": "104.64.224.0/19",
       "Alpha2Code": "US",
       "Region": "US-IL",
       "City": "Chicago",
