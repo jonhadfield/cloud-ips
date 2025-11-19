@@ -5,10 +5,11 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Tue, 18 Nov 2025 12:00:52 UTC
+##### last updated: Wed, 19 Nov 2025 00:00:32 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
+| [alibaba.json](alibaba.json)  | Alibaba |  hosting | [source](https://www.alibaba.com/) |  
 | [aws.json](aws.json)  | Amazon Web Services |  cloud | [source](https://docs.aws.amazon.com/vpc/latest/userguide/aws-ip-ranges.html) |  
 | [cloudflare.json](cloudflare.json)  | Cloudflare |  cdn | [source](https://www.cloudflare.com/en-gb/ips/) |  
 | [fastly.json](fastly.json)  | Fastly |  cdn | [source](https://www.fastly.com/documentation/reference/api/utils/public-ip-list/) |  
@@ -17,8 +18,13 @@ can be used to keep firewall rules or network filters up to date.
 | [googlebot.json](googlebot.json)  | Google Crawler Bots |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [googlesc.json](googlesc.json)  | Google Special Crawlers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [googleutf.json](googleutf.json)  | Google User-Triggered Fetchers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
+| [hetzner.json](hetzner.json)  | Hetzner |  hosting | [source](https://www.hetzner.com/) |  
 | [linode.json](linode.json)  | Linode |  hosting | [source](https://www.linode.com/) |  
+| [m247.json](m247.json)  | M247 |  hosting | [source](https://www.m247.com/) |  
 | [oci.json](oci.json)  | Oracle Cloud Infrastructure |  hosting | [source](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/addressranges.htm) |  
+| [ovh.json](ovh.json)  | OVH |  hosting | [source](https://www.ovh.com/) |  
+| [scaleway.json](scaleway.json)  | Scaleway |  hosting | [source](https://www.scaleway.com/) |  
+| [vultr.json](vultr.json)  | Vultr |  hosting | [source](https://www.vultr.com/) |  
 | [zscaler.json](zscaler.json)  | Zscaler |  security | [source](https://www.zscaler.com) |  
 
 
