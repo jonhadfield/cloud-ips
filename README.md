@@ -5,7 +5,7 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Sat, 22 Nov 2025 12:00:32 UTC
+##### last updated: Sun, 23 Nov 2025 00:00:41 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -24,7 +24,6 @@ can be used to keep firewall rules or network filters up to date.
 | [oci.json](oci.json)  | Oracle Cloud Infrastructure |  hosting | [source](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/addressranges.htm) |  
 | [ovh.json](ovh.json)  | OVH |  hosting | [source](https://www.ovh.com/) |  
 | [scaleway.json](scaleway.json)  | Scaleway |  hosting | [source](https://www.scaleway.com/) |  
-| [vultr.json](vultr.json)  | Vultr |  hosting | [source](https://www.vultr.com/) |  
 | [zscaler.json](zscaler.json)  | Zscaler |  security | [source](https://www.zscaler.com) |  
 
 
