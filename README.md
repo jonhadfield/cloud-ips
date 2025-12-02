@@ -5,7 +5,7 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Mon, 01 Dec 2025 12:00:26 UTC
+##### last updated: Tue, 02 Dec 2025 00:01:03 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
