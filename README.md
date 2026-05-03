@@ -5,12 +5,10 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Sat, 02 May 2026 12:02:07 UTC
+##### last updated: Sun, 03 May 2026 00:03:01 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
-| [cloudflare.json](cloudflare.json)  | Cloudflare |  cdn | [source](https://www.cloudflare.com/en-gb/ips/) |  
-| [fastly.json](fastly.json)  | Fastly |  cdn | [source](https://www.fastly.com/documentation/reference/api/utils/public-ip-list/) |  
 | [gcp.json](gcp.json)  | Google Cloud Platform |  cloud | [source](https://cloud.google.com/compute/docs/faq#find_ip_range) |  
 | [google.json](google.json)  | Google |  hosting | [source](https://support.google.com/a/answer/10026322) |  
 | [googlebot.json](googlebot.json)  | Google Crawler Bots |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
