@@ -5,7 +5,7 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Mon, 18 May 2026 12:01:19 UTC
+##### last updated: Tue, 19 May 2026 00:01:09 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -16,6 +16,7 @@ can be used to keep firewall rules or network filters up to date.
 | [google.json](google.json)  | Google |  hosting | [source](https://support.google.com/a/answer/10026322) |  
 | [googlebot.json](googlebot.json)  | Google Crawler Bots |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [googlesc.json](googlesc.json)  | Google Special Crawlers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
+| [googleutf.json](googleutf.json)  | Google User-Triggered Fetchers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [linode.json](linode.json)  | Linode |  hosting | [source](https://www.linode.com/) |  
 | [oci.json](oci.json)  | Oracle Cloud Infrastructure |  hosting | [source](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/addressranges.htm) |  
 | [zscaler.json](zscaler.json)  | Zscaler |  security | [source](https://www.zscaler.com) |  
