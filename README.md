@@ -5,10 +5,11 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Sun, 07 Jun 2026 19:30:38 UTC
+##### last updated: Sun, 07 Jun 2026 19:34:10 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
+| [alibaba.json](alibaba.json)  | Alibaba |  hosting | [source](https://www.alibaba.com/) |  
 | [aws.json](aws.json)  | Amazon Web Services |  cloud | [source](https://docs.aws.amazon.com/vpc/latest/userguide/aws-ip-ranges.html) |  
 | [azure.json](azure.json)  | Microsoft Azure |  cloud | [source](https://www.microsoft.com/en-gb/download/details.aspx?id=56519) |  
 | [cloudflare.json](cloudflare.json)  | Cloudflare |  cdn | [source](https://www.cloudflare.com/en-gb/ips/) |  
