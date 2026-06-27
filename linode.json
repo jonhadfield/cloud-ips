@@ -1,6 +1,6 @@
 {
-  "etag": "\"6a3e4da4-2db68\"",
-  "lastModified": "2026-06-26T10:00:04Z",
+  "etag": "\"6a3f9f24-2dbb7\"",
+  "lastModified": "2026-06-27T10:00:04Z",
   "records": [
     {
       "alpha2code": "US",
@@ -659,6 +659,20 @@
       "postalCode": "",
       "prefix": "2600:3c0f:57::/48",
       "region": "FR-13"
+    },
+    {
+      "alpha2code": "MX",
+      "city": "Queretaro",
+      "postalCode": "",
+      "prefix": "2600:3c12:f00::/40",
+      "region": "MX-QUE"
+    },
+    {
+      "alpha2code": "MX",
+      "city": "Queretaro",
+      "postalCode": "",
+      "prefix": "2600:3c0f:58::/48",
+      "region": "MX-QUE"
     },
     {
       "alpha2code": "US",
