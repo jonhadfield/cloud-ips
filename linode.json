@@ -1,6 +1,6 @@
 {
-  "etag": "\"6a424224-2dbb7\"",
-  "lastModified": "2026-06-29T10:00:04Z",
+  "etag": "\"6a4393a5-2dbfc\"",
+  "lastModified": "2026-06-30T10:00:05Z",
   "records": [
     {
       "alpha2code": "US",
@@ -617,6 +617,20 @@
       "postalCode": "",
       "prefix": "2600:3c0f:53::/48",
       "region": "FR-IDF"
+    },
+    {
+      "alpha2code": "AU",
+      "city": "Sydney",
+      "postalCode": "",
+      "prefix": "2600:3c1e::/32",
+      "region": "AU-NSW"
+    },
+    {
+      "alpha2code": "AU",
+      "city": "Sydney",
+      "postalCode": "",
+      "prefix": "2600:3c0f:54::/48",
+      "region": "AU-NSW"
     },
     {
       "alpha2code": "US",
