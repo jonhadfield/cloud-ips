@@ -1,6 +1,6 @@
 {
-  "etag": "\"6a54b724-2e457\"",
-  "lastModified": "2026-07-13T10:00:04Z",
+  "etag": "\"6a5608a4-2e479\"",
+  "lastModified": "2026-07-14T10:00:04Z",
   "records": [
     {
       "alpha2code": "US",
@@ -20789,13 +20789,6 @@
       "alpha2code": "US",
       "city": "Ashburn",
       "postalCode": "",
-      "prefix": "172.237.183.0/24",
-      "region": "US-VA"
-    },
-    {
-      "alpha2code": "US",
-      "city": "Ashburn",
-      "postalCode": "",
       "prefix": "172.237.184.0/24",
       "region": "US-VA"
     },
@@ -21084,6 +21077,13 @@
       "city": "Ashburn",
       "postalCode": "",
       "prefix": "172.235.127.0/24",
+      "region": "US-VA"
+    },
+    {
+      "alpha2code": "US",
+      "city": "Ashburn",
+      "postalCode": "",
+      "prefix": "172.237.183.0/24",
       "region": "US-VA"
     },
     {
@@ -23715,14 +23715,14 @@
       "alpha2code": "US",
       "city": "Chicago",
       "postalCode": "",
-      "prefix": "172.239.223.0/24",
+      "prefix": "104.64.224.0/19",
       "region": "US-IL"
     },
     {
       "alpha2code": "US",
       "city": "Chicago",
       "postalCode": "",
-      "prefix": "104.64.224.0/19",
+      "prefix": "172.239.223.0/24",
       "region": "US-IL"
     },
     {
@@ -24164,6 +24164,13 @@
       "city": "Chennai",
       "postalCode": "",
       "prefix": "172.235.30.0/24",
+      "region": "IN-TN"
+    },
+    {
+      "alpha2code": "IN",
+      "city": "Chennai",
+      "postalCode": "",
+      "prefix": "172.235.31.0/24",
       "region": "IN-TN"
     },
     {
@@ -31758,14 +31765,14 @@
       "alpha2code": "US",
       "city": "Miami",
       "postalCode": "",
-      "prefix": "104.64.126.0/24",
+      "prefix": "104.64.127.0/24",
       "region": "US-FL"
     },
     {
       "alpha2code": "US",
       "city": "Miami",
       "postalCode": "",
-      "prefix": "104.64.127.0/24",
+      "prefix": "104.64.126.0/24",
       "region": "US-FL"
     },
     {
