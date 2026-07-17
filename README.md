@@ -5,40 +5,15 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Thu, 16 Jul 2026 00:01:34 UTC
+##### last updated: Fri, 17 Jul 2026 12:07:28 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
-| [alibaba.json](alibaba.json)  | Alibaba |  hosting | [source](https://www.alibaba.com/) |  
-| [atlassian.json](atlassian.json)  | Atlassian |  saas | [source](https://ip-ranges.atlassian.com/) |  
-| [aws.json](aws.json)  | Amazon Web Services |  cloud | [source](https://docs.aws.amazon.com/vpc/latest/userguide/aws-ip-ranges.html) |  
-| [azure.json](azure.json)  | Microsoft Azure |  cloud | [source](https://www.microsoft.com/en-gb/download/details.aspx?id=56519) |  
-| [bunny.json](bunny.json)  | Bunny.net |  cdn | [source](https://bunny.net/) |  
-| [cdn77.json](cdn77.json)  | CDN77 |  cdn | [source](https://www.cdn77.com/) |  
-| [cloudflare.json](cloudflare.json)  | Cloudflare |  cdn | [source](https://www.cloudflare.com/en-gb/ips/) |  
 | [contabo.json](contabo.json)  | Contabo |  hosting | [source](https://contabo.com/) |  
-| [datadog.json](datadog.json)  | Datadog |  saas | [source](https://docs.datadoghq.com/api/latest/ip-ranges/) |  
-| [fastly.json](fastly.json)  | Fastly |  cdn | [source](https://www.fastly.com/documentation/reference/api/utils/public-ip-list/) |  
 | [flyio.json](flyio.json)  | Fly.io |  hosting | [source](https://fly.io/) |  
-| [gcp.json](gcp.json)  | Google Cloud Platform |  cloud | [source](https://cloud.google.com/compute/docs/faq#find_ip_range) |  
-| [google.json](google.json)  | Google |  hosting | [source](https://support.google.com/a/answer/10026322) |  
-| [googlebot.json](googlebot.json)  | Google Crawler Bots |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
-| [googlesc.json](googlesc.json)  | Google Special Crawlers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
-| [googleutf.json](googleutf.json)  | Google User-Triggered Fetchers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
-| [hetzner.json](hetzner.json)  | Hetzner |  hosting | [source](https://www.hetzner.com/) |  
-| [ibmcloud.json](ibmcloud.json)  | IBM Cloud |  hosting | [source](https://www.ibm.com/cloud) |  
-| [imperva.json](imperva.json)  | Imperva |  security | [source](https://docs.imperva.com/bundle/cloud-application-security/page/more/restricting-direct-access.htm) |  
-| [leaseweb.json](leaseweb.json)  | Leaseweb |  hosting | [source](https://www.leaseweb.com/) |  
-| [linode.json](linode.json)  | Linode |  hosting | [source](https://www.linode.com/) |  
 | [m247.json](m247.json)  | M247 |  hosting | [source](https://www.m247.com/) |  
-| [oci.json](oci.json)  | Oracle Cloud Infrastructure |  hosting | [source](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/addressranges.htm) |  
-| [ovh.json](ovh.json)  | OVH |  hosting | [source](https://www.ovh.com/) |  
-| [render.json](render.json)  | Render |  hosting | [source](https://render.com/) |  
-| [scaleway.json](scaleway.json)  | Scaleway |  hosting | [source](https://www.scaleway.com/) |  
-| [stripe.json](stripe.json)  | Stripe |  saas | [source](https://docs.stripe.com/ips) |  
 | [tencent.json](tencent.json)  | Tencent Cloud |  hosting | [source](https://www.tencentcloud.com/) |  
 | [vultr.json](vultr.json)  | Vultr |  hosting | [source](https://www.vultr.com/) |  
-| [zscaler.json](zscaler.json)  | Zscaler |  security | [source](https://www.zscaler.com) |  
 
 
 ## Usage
