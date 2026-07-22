@@ -5,11 +5,14 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Wed, 22 Jul 2026 00:07:20 UTC
+##### last updated: Wed, 22 Jul 2026 12:06:59 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
-| [scaleway.json](scaleway.json)  | Scaleway |  hosting | [source](https://www.scaleway.com/) |  
+| [alibaba.json](alibaba.json)  | Alibaba |  hosting | [source](https://www.alibaba.com/) |  
+| [contabo.json](contabo.json)  | Contabo |  hosting | [source](https://contabo.com/) |  
+| [flyio.json](flyio.json)  | Fly.io |  hosting | [source](https://fly.io/) |  
+| [render.json](render.json)  | Render |  hosting | [source](https://render.com/) |  
 | [tencent.json](tencent.json)  | Tencent Cloud |  hosting | [source](https://www.tencentcloud.com/) |  
 | [vultr.json](vultr.json)  | Vultr |  hosting | [source](https://www.vultr.com/) |  
 
