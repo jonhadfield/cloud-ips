@@ -5,14 +5,18 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Wed, 22 Jul 2026 12:06:59 UTC
+##### last updated: Thu, 23 Jul 2026 12:07:03 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
-| [alibaba.json](alibaba.json)  | Alibaba |  hosting | [source](https://www.alibaba.com/) |  
 | [contabo.json](contabo.json)  | Contabo |  hosting | [source](https://contabo.com/) |  
 | [flyio.json](flyio.json)  | Fly.io |  hosting | [source](https://fly.io/) |  
+| [hetzner.json](hetzner.json)  | Hetzner |  hosting | [source](https://www.hetzner.com/) |  
+| [ibmcloud.json](ibmcloud.json)  | IBM Cloud |  hosting | [source](https://www.ibm.com/cloud) |  
+| [m247.json](m247.json)  | M247 |  hosting | [source](https://www.m247.com/) |  
+| [ovh.json](ovh.json)  | OVH |  hosting | [source](https://www.ovh.com/) |  
 | [render.json](render.json)  | Render |  hosting | [source](https://render.com/) |  
+| [scaleway.json](scaleway.json)  | Scaleway |  hosting | [source](https://www.scaleway.com/) |  
 | [tencent.json](tencent.json)  | Tencent Cloud |  hosting | [source](https://www.tencentcloud.com/) |  
 | [vultr.json](vultr.json)  | Vultr |  hosting | [source](https://www.vultr.com/) |  
 
