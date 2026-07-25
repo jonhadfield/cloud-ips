@@ -1,6 +1,6 @@
 {
-  "etag": "\"6a61e625-2e899\"",
-  "lastModified": "2026-07-23T10:00:05Z",
+  "etag": "\"6a6337a4-2e8be\"",
+  "lastModified": "2026-07-24T10:00:04Z",
   "records": [
     {
       "alpha2code": "US",
@@ -37660,6 +37660,13 @@
       "city": "Queretaro",
       "postalCode": "",
       "prefix": "104.66.224.0/24",
+      "region": "MX-QUE"
+    },
+    {
+      "alpha2code": "MX",
+      "city": "Queretaro",
+      "postalCode": "",
+      "prefix": "104.66.225.0/24",
       "region": "MX-QUE"
     },
     {
