@@ -5,7 +5,7 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Tue, 28 Jul 2026 00:01:00 UTC
+##### last updated: Tue, 28 Jul 2026 12:01:15 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -23,7 +23,6 @@ can be used to keep firewall rules or network filters up to date.
 | [gcp.json](gcp.json)  | Google Cloud Platform |  cloud | [source](https://cloud.google.com/compute/docs/faq#find_ip_range) |  
 | [google.json](google.json)  | Google |  hosting | [source](https://support.google.com/a/answer/10026322) |  
 | [googlebot.json](googlebot.json)  | Google Crawler Bots |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
-| [googlesc.json](googlesc.json)  | Google Special Crawlers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [googleutf.json](googleutf.json)  | Google User-Triggered Fetchers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [hetzner.json](hetzner.json)  | Hetzner |  hosting | [source](https://www.hetzner.com/) |  
 | [ibmcloud.json](ibmcloud.json)  | IBM Cloud |  hosting | [source](https://www.ibm.com/cloud) |  
