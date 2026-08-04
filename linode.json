@@ -1,6 +1,6 @@
 {
-  "etag": "\"6a7066a5-2e8be\"",
-  "lastModified": "2026-08-03T10:00:05Z",
+  "etag": "\"6a71b824-2e832\"",
+  "lastModified": "2026-08-04T10:00:04Z",
   "records": [
     {
       "alpha2code": "US",
@@ -421,20 +421,6 @@
       "postalCode": "",
       "prefix": "2600:3c0f:38::/48",
       "region": "MY-14"
-    },
-    {
-      "alpha2code": "CO",
-      "city": "Bogota",
-      "postalCode": "",
-      "prefix": "2600:3c12:700::/40",
-      "region": "CO-DC"
-    },
-    {
-      "alpha2code": "CO",
-      "city": "Bogota",
-      "postalCode": "",
-      "prefix": "2600:3c0f:40::/48",
-      "region": "CO-DC"
     },
     {
       "alpha2code": "MX",
@@ -31830,20 +31816,6 @@
       "postalCode": "",
       "prefix": "172.235.105.0/24",
       "region": "MY-14"
-    },
-    {
-      "alpha2code": "CO",
-      "city": "Bogota",
-      "postalCode": "",
-      "prefix": "172.235.108.0/24",
-      "region": "CO-DC"
-    },
-    {
-      "alpha2code": "CO",
-      "city": "Bogota",
-      "postalCode": "",
-      "prefix": "172.235.109.0/24",
-      "region": "CO-DC"
     },
     {
       "alpha2code": "MX",
