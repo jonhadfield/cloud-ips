@@ -5,7 +5,7 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Wed, 05 Aug 2026 12:01:37 UTC
+##### last updated: Thu, 06 Aug 2026 00:00:41 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -33,6 +33,7 @@ can be used to keep firewall rules or network filters up to date.
 | [m247.json](m247.json)  | M247 |  hosting | [source](https://www.m247.com/) |  
 | [oci.json](oci.json)  | Oracle Cloud Infrastructure |  hosting | [source](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/addressranges.htm) |  
 | [ovh.json](ovh.json)  | OVH |  hosting | [source](https://www.ovh.com/) |  
+| [render.json](render.json)  | Render |  hosting | [source](https://render.com/) |  
 | [scaleway.json](scaleway.json)  | Scaleway |  hosting | [source](https://www.scaleway.com/) |  
 | [stripe.json](stripe.json)  | Stripe |  saas | [source](https://docs.stripe.com/ips) |  
 | [tencent.json](tencent.json)  | Tencent Cloud |  hosting | [source](https://www.tencentcloud.com/) |  
