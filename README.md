@@ -5,7 +5,7 @@ can be used to keep firewall rules or network filters up to date.
 
 ## Contents
 
-##### last updated: Thu, 13 Aug 2026 00:01:36 UTC
+##### last updated: Thu, 13 Aug 2026 12:00:57 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -25,6 +25,7 @@ can be used to keep firewall rules or network filters up to date.
 | [googlebot.json](googlebot.json)  | Google Crawler Bots |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [googlesc.json](googlesc.json)  | Google Special Crawlers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [googleutf.json](googleutf.json)  | Google User-Triggered Fetchers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
+| [hetzner.json](hetzner.json)  | Hetzner |  hosting | [source](https://www.hetzner.com/) |  
 | [ibmcloud.json](ibmcloud.json)  | IBM Cloud |  hosting | [source](https://www.ibm.com/cloud) |  
 | [imperva.json](imperva.json)  | Imperva |  security | [source](https://docs.imperva.com/bundle/cloud-application-security/page/more/restricting-direct-access.htm) |  
 | [leaseweb.json](leaseweb.json)  | Leaseweb |  hosting | [source](https://www.leaseweb.com/) |  
