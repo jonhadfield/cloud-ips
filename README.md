@@ -1,11 +1,12 @@
 # cloud-ips
 
-A collection of cloud IP ranges and provider address lists. These JSON files
-can be used to keep firewall rules or network filters up to date.
+A collection of cloud IP ranges and provider address lists. Most are JSON,
+a few are plain text or CSV, and all can be used to keep firewall rules or
+network filters up to date.
 
 ## Contents
 
-##### last updated: Wed, 02 Sep 2026 19:21:37 UTC
+##### last updated: Sun, 13 Sep 2026 19:07:13 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -32,6 +33,7 @@ can be used to keep firewall rules or network filters up to date.
 | [duckduckbot.json](duckduckbot.json)  | DuckDuckBot |  crawlers | [source](https://duckduckgo.com/duckduckbot.json) |  
 | [emergingthreats.txt](emergingthreats.txt)  | Emerging Threats Compromised IPs |  threat | [source](https://rules.emergingthreats.net/blockrules/) |  
 | [fastly.json](fastly.json)  | Fastly |  cdn | [source](https://www.fastly.com/documentation/reference/api/utils/public-ip-list/) |  
+| [feodo.txt](feodo.txt)  | abuse.ch Feodo Tracker |  threat | [source](https://feodotracker.abuse.ch/blocklist/) |  
 | [flyio.json](flyio.json)  | Fly.io |  hosting | [source](https://fly.io/) |  
 | [gcp.json](gcp.json)  | Google Cloud Platform |  cloud | [source](https://cloud.google.com/compute/docs/faq#find_ip_range) |  
 | [gcore.json](gcore.json)  | Gcore CDN |  cdn | [source](https://gcore.com/) |  
@@ -46,11 +48,12 @@ can be used to keep firewall rules or network filters up to date.
 | [ibmcloud.json](ibmcloud.json)  | IBM Cloud |  hosting | [source](https://www.ibm.com/cloud) |  
 | [icloudpr.csv](icloudpr.csv)  | iCloud Private Relay |  anonymiser | [source](https://support.apple.com/en-us/HT212614) |  
 | [imperva.json](imperva.json)  | Imperva |  security | [source](https://docs.imperva.com/bundle/cloud-application-security/page/more/restricting-direct-access.htm) |  
-| [leaseweb.json](leaseweb.json)  | Leaseweb |  hosting | [source](https://www.leaseweb.com/) |  
 | [linode.json](linode.json)  | Linode |  hosting | [source](https://www.linode.com/) |  
 | [m247.json](m247.json)  | M247 |  hosting | [source](https://www.m247.com/) |  
+| [m365.json](m365.json)  | Microsoft 365 |  saas | [source](https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-ip-web-service) |  
 | [newrelic.json](newrelic.json)  | New Relic Synthetics |  monitoring | [source](https://docs.newrelic.com/docs/synthetics/synthetic-monitoring/administration/synthetic-public-minion-ips/) |  
 | [oci.json](oci.json)  | Oracle Cloud Infrastructure |  hosting | [source](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/addressranges.htm) |  
+| [okta.json](okta.json)  | Okta |  saas | [source](https://help.okta.com/en-us/content/topics/security/ip-address-allow-listing.htm) |  
 | [openai.json](openai.json)  | OpenAI Bots |  crawlers | [source](https://platform.openai.com/docs/bots) |  
 | [ovh.json](ovh.json)  | OVH |  hosting | [source](https://www.ovh.com/) |  
 | [pingdom.json](pingdom.json)  | Pingdom |  monitoring | [source](https://www.pingdom.com/) |  
@@ -64,17 +67,20 @@ can be used to keep firewall rules or network filters up to date.
 | [stripe.json](stripe.json)  | Stripe |  saas | [source](https://docs.stripe.com/ips) |  
 | [tenable.json](tenable.json)  | Tenable Cloud Scanners |  scanner | [source](https://docs.tenable.com/vulnerability-management/Content/Settings/Sensors/CloudSensors.htm) |  
 | [tencent.json](tencent.json)  | Tencent Cloud |  hosting | [source](https://www.tencentcloud.com/) |  
+| [tor.txt](tor.txt)  | Tor Exit Nodes |  anonymiser | [source](https://check.torproject.org/) |  
 | [updown.json](updown.json)  | updown.io |  monitoring | [source](https://updown.io/api) |  
 | [uptimerobot.txt](uptimerobot.txt)  | UptimeRobot |  monitoring | [source](https://uptimerobot.com/help/locations/) |  
 | [uptrends.json](uptrends.json)  | Uptrends |  monitoring | [source](https://www.uptrends.com/support/kb/account/ip-addresses-for-whitelisting) |  
+| [vultr.json](vultr.json)  | Vultr |  hosting | [source](https://www.vultr.com/) |  
 | [zoom.txt](zoom.txt)  | Zoom |  saas | [source](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548) |  
 | [zscaler.json](zscaler.json)  | Zscaler |  security | [source](https://www.zscaler.com) |  
 
 
 ## Usage
 
-Download the JSON file for the provider you are interested in and use the
-contained IP ranges to configure your firewall rules or network filters.
+Download the file for the provider you are interested in, in whichever format
+the table above lists it, and use the contained IP ranges to configure your
+firewall rules or network filters.
 
 example:
 ```bash
