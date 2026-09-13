@@ -6,7 +6,7 @@ network filters up to date.
 
 ## Contents
 
-##### last updated: Sun, 13 Sep 2026 19:07:13 UTC
+##### last updated: Sun, 13 Sep 2026 19:48:49 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -48,6 +48,7 @@ network filters up to date.
 | [ibmcloud.json](ibmcloud.json)  | IBM Cloud |  hosting | [source](https://www.ibm.com/cloud) |  
 | [icloudpr.csv](icloudpr.csv)  | iCloud Private Relay |  anonymiser | [source](https://support.apple.com/en-us/HT212614) |  
 | [imperva.json](imperva.json)  | Imperva |  security | [source](https://docs.imperva.com/bundle/cloud-application-security/page/more/restricting-direct-access.htm) |  
+| [leaseweb.json](leaseweb.json)  | Leaseweb |  hosting | [source](https://www.leaseweb.com/) |  
 | [linode.json](linode.json)  | Linode |  hosting | [source](https://www.linode.com/) |  
 | [m247.json](m247.json)  | M247 |  hosting | [source](https://www.m247.com/) |  
 | [m365.json](m365.json)  | Microsoft 365 |  saas | [source](https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-ip-web-service) |  
