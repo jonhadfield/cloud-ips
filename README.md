@@ -6,7 +6,7 @@ network filters up to date.
 
 ## Contents
 
-##### last updated: Tue, 15 Sep 2026 00:03:35 UTC
+##### last updated: Tue, 15 Sep 2026 12:02:27 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -17,6 +17,7 @@ network filters up to date.
 | [applebot.json](applebot.json)  | Applebot |  crawlers | [source](https://support.apple.com/en-us/119829) |  
 | [atlassian.json](atlassian.json)  | Atlassian |  saas | [source](https://ip-ranges.atlassian.com/) |  
 | [aws.json](aws.json)  | Amazon Web Services |  cloud | [source](https://docs.aws.amazon.com/vpc/latest/userguide/aws-ip-ranges.html) |  
+| [azure.json](azure.json)  | Microsoft Azure |  cloud | [source](https://www.microsoft.com/en-gb/download/details.aspx?id=56519) |  
 | [blocklistde.txt](blocklistde.txt)  | Blocklist.de |  threat | [source](https://www.blocklist.de/en/index.html) |  
 | [betterstack.txt](betterstack.txt)  | Better Stack |  monitoring | [source](https://betterstack.com/docs/uptime/ip-addresses/) |  
 | [bunny.json](bunny.json)  | Bunny.net |  cdn | [source](https://bunny.net/) |  
@@ -25,11 +26,28 @@ network filters up to date.
 | [checkly.json](checkly.json)  | Checkly |  monitoring | [source](https://www.checklyhq.com/docs/monitoring/allowlisting/) |  
 | [cloudflare.json](cloudflare.json)  | Cloudflare |  cdn | [source](https://www.cloudflare.com/en-gb/ips/) |  
 | [contabo.json](contabo.json)  | Contabo |  hosting | [source](https://contabo.com/) |  
+| [cymru.json](cymru.json)  | Team Cymru Bogons |  bogons | [source](https://www.team-cymru.com/bogon-reference) |  
 | [datadog.json](datadog.json)  | Datadog |  saas | [source](https://docs.datadoghq.com/api/latest/ip-ranges/) |  
 | [detectify.txt](detectify.txt)  | Detectify |  scanner | [source](https://docs.detectify.com/network-setup/scanner-ip-addresses) |  
+| [dshield.txt](dshield.txt)  | DShield Recommended Block List |  threat | [source](https://www.dshield.org/) |  
+| [duckduckbot.json](duckduckbot.json)  | DuckDuckBot |  crawlers | [source](https://duckduckgo.com/duckduckbot.json) |  
+| [emergingthreats.txt](emergingthreats.txt)  | Emerging Threats Compromised IPs |  threat | [source](https://rules.emergingthreats.net/blockrules/) |  
+| [fastly.json](fastly.json)  | Fastly |  cdn | [source](https://www.fastly.com/documentation/reference/api/utils/public-ip-list/) |  
+| [feodo.txt](feodo.txt)  | abuse.ch Feodo Tracker |  threat | [source](https://feodotracker.abuse.ch/blocklist/) |  
 | [flyio.json](flyio.json)  | Fly.io |  hosting | [source](https://fly.io/) |  
+| [gcp.json](gcp.json)  | Google Cloud Platform |  cloud | [source](https://cloud.google.com/compute/docs/faq#find_ip_range) |  
+| [gcore.json](gcore.json)  | Gcore CDN |  cdn | [source](https://gcore.com/) |  
+| [github.txt](github.txt)  | GitHub |  hosting | [source](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-githubs-ip-addresses) |  
+| [google.json](google.json)  | Google |  hosting | [source](https://support.google.com/a/answer/10026322) |  
+| [googlebot.json](googlebot.json)  | Google Crawler Bots |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
+| [googlesc.json](googlesc.json)  | Google Special Crawlers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
+| [googleutf.json](googleutf.json)  | Google User-Triggered Fetchers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
+| [grafana.json](grafana.json)  | Grafana Synthetic Monitoring |  monitoring | [source](https://grafana.com/docs/grafana-cloud/testing/synthetic-monitoring/create-checks/public-probes/) |  
+| [greensnow.txt](greensnow.txt)  | GreenSnow |  threat | [source](https://greensnow.co/) |  
 | [hetzner.json](hetzner.json)  | Hetzner |  hosting | [source](https://www.hetzner.com/) |  
 | [ibmcloud.json](ibmcloud.json)  | IBM Cloud |  hosting | [source](https://www.ibm.com/cloud) |  
+| [icloudpr.csv](icloudpr.csv)  | iCloud Private Relay |  anonymiser | [source](https://support.apple.com/en-us/HT212614) |  
+| [imperva.json](imperva.json)  | Imperva |  security | [source](https://docs.imperva.com/bundle/cloud-application-security/page/more/restricting-direct-access.htm) |  
 | [leaseweb.json](leaseweb.json)  | Leaseweb |  hosting | [source](https://www.leaseweb.com/) |  
 | [linode.json](linode.json)  | Linode |  hosting | [source](https://www.linode.com/) |  
 | [m247.json](m247.json)  | M247 |  hosting | [source](https://www.m247.com/) |  
