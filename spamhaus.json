@@ -36,11 +36,6 @@
    "rir": "ripencc"
   },
   {
-   "cidr": "2.57.17.0/24",
-   "sblid": "SBL699300",
-   "rir": "ripencc"
-  },
-  {
    "cidr": "2.57.122.0/24",
    "sblid": "SBL636050",
    "rir": "ripencc"
@@ -116,18 +111,14 @@
    "rir": "ripencc"
   },
   {
-   "cidr": "5.252.83.0/24",
-   "sblid": "SBL699302",
-   "rir": "ripencc"
-  },
-  {
    "cidr": "5.252.153.0/24",
    "sblid": "SBL697551",
    "rir": "ripencc"
   },
   {
    "cidr": "5.252.155.0/24",
-   "sblid": "SBL700043"
+   "sblid": "SBL700043",
+   "rir": "ripencc"
   },
   {
    "cidr": "14.128.32.0/20",
@@ -875,11 +866,6 @@
    "rir": "ripencc"
   },
   {
-   "cidr": "45.133.173.0/24",
-   "sblid": "SBL699301",
-   "rir": "ripencc"
-  },
-  {
    "cidr": "45.133.246.0/24",
    "sblid": "SBL639581",
    "rir": "ripencc"
@@ -1176,12 +1162,12 @@
   },
   {
    "cidr": "62.60.226.0/24",
-   "sblid": "SBL671779",
+   "sblid": "SBL697779",
    "rir": "ripencc"
   },
   {
    "cidr": "62.60.226.0/24",
-   "sblid": "SBL697779",
+   "sblid": "SBL671779",
    "rir": "ripencc"
   },
   {
@@ -1665,11 +1651,6 @@
    "rir": "ripencc"
   },
   {
-   "cidr": "88.210.63.0/24",
-   "sblid": "SBL686328",
-   "rir": "ripencc"
-  },
-  {
    "cidr": "89.18.16.0/22",
    "sblid": "SBL691132",
    "rir": "ripencc"
@@ -2087,11 +2068,6 @@
   {
    "cidr": "94.26.88.0/24",
    "sblid": "SBL682629",
-   "rir": "ripencc"
-  },
-  {
-   "cidr": "94.26.90.0/24",
-   "sblid": "SBL676377",
    "rir": "ripencc"
   },
   {
@@ -3540,11 +3516,6 @@
    "rir": "arin"
   },
   {
-   "cidr": "141.98.6.0/24",
-   "sblid": "SBL699309",
-   "rir": "ripencc"
-  },
-  {
    "cidr": "141.98.8.0/24",
    "sblid": "SBL642215",
    "rir": "ripencc"
@@ -3793,11 +3764,6 @@
    "cidr": "153.93.0.0/16",
    "sblid": "SBL268208",
    "rir": "ripencc"
-  },
-  {
-   "cidr": "154.16.44.0/24",
-   "sblid": "SBL699303",
-   "rir": "afrinic"
   },
   {
    "cidr": "154.23.189.0/24",
@@ -4570,23 +4536,8 @@
    "rir": "ripencc"
   },
   {
-   "cidr": "176.65.138.0/24",
-   "sblid": "SBL675607",
-   "rir": "ripencc"
-  },
-  {
    "cidr": "176.65.139.0/24",
    "sblid": "SBL692426",
-   "rir": "ripencc"
-  },
-  {
-   "cidr": "176.65.142.0/24",
-   "sblid": "SBL697645",
-   "rir": "ripencc"
-  },
-  {
-   "cidr": "176.65.143.0/24",
-   "sblid": "SBL698398",
    "rir": "ripencc"
   },
   {
@@ -8626,8 +8577,8 @@
   },
   {
    "type": "metadata",
-   "timestamp": 1789316042,
-   "records": 1725
+   "timestamp": 1789559042,
+   "records": 1715
   }
  ],
  "ipv6": [
