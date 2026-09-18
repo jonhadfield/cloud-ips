@@ -192,7 +192,7 @@
     "ipv6Prefixes": null
   },
   "chatgptUser": {
-    "creationTime": "2026-09-17T13:04:59.394838Z",
+    "creationTime": "2026-09-18T00:04:57.792746Z",
     "ipv4Prefixes": [
       {
         "ipv4Prefix": "104.208.184.192/28"
@@ -229,6 +229,12 @@
       },
       {
         "ipv4Prefix": "132.196.82.48/28"
+      },
+      {
+        "ipv4Prefix": "134.138.52.64/28"
+      },
+      {
+        "ipv4Prefix": "134.138.52.96/28"
       },
       {
         "ipv4Prefix": "134.149.233.80/28"
