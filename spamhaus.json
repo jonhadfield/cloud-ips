@@ -4476,16 +4476,6 @@
    "rir": "ripencc"
   },
   {
-   "cidr": "172.70.206.0/23",
-   "sblid": "SBL687772",
-   "rir": "arin"
-  },
-  {
-   "cidr": "172.70.214.0/23",
-   "sblid": "SBL687314",
-   "rir": "arin"
-  },
-  {
    "cidr": "172.94.9.0/24",
    "sblid": "SBL692903",
    "rir": "arin"
@@ -7976,6 +7966,10 @@
    "rir": "arin"
   },
   {
+   "cidr": "206.53.56.0/24",
+   "sblid": "SBL700132"
+  },
+  {
    "cidr": "206.80.224.0/21",
    "sblid": "SBL698152",
    "rir": "arin"
@@ -8572,8 +8566,8 @@
   },
   {
    "type": "metadata",
-   "timestamp": 1789663442,
-   "records": 1714
+   "timestamp": 1789726442,
+   "records": 1713
   }
  ],
  "ipv6": [
@@ -9039,7 +9033,7 @@
   },
   {
    "type": "metadata",
-   "timestamp": 1789568042,
+   "timestamp": 1789726442,
    "records": 92
   }
  ]
