@@ -6,7 +6,7 @@ network filters up to date.
 
 ## Contents
 
-##### last updated: Sat, 19 Sep 2026 00:00:27 UTC
+##### last updated: Sat, 19 Sep 2026 12:00:14 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
