@@ -6,7 +6,7 @@ network filters up to date.
 
 ## Contents
 
-##### last updated: Mon, 21 Sep 2026 00:00:16 UTC
+##### last updated: Mon, 21 Sep 2026 12:00:18 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -43,7 +43,6 @@ network filters up to date.
 | [googlesc.json](googlesc.json)  | Google Special Crawlers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [googleutf.json](googleutf.json)  | Google User-Triggered Fetchers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [grafana.json](grafana.json)  | Grafana Synthetic Monitoring |  monitoring | [source](https://grafana.com/docs/grafana-cloud/testing/synthetic-monitoring/create-checks/public-probes/) |  
-| [greensnow.txt](greensnow.txt)  | GreenSnow |  threat | [source](https://greensnow.co/) |  
 | [hetzner.json](hetzner.json)  | Hetzner |  hosting | [source](https://www.hetzner.com/) |  
 | [ibmcloud.json](ibmcloud.json)  | IBM Cloud |  hosting | [source](https://www.ibm.com/cloud) |  
 | [icloudpr.csv](icloudpr.csv)  | iCloud Private Relay |  anonymiser | [source](https://support.apple.com/en-us/HT212614) |  
