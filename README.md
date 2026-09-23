@@ -6,7 +6,7 @@ network filters up to date.
 
 ## Contents
 
-##### last updated: Tue, 22 Sep 2026 12:00:17 UTC
+##### last updated: Wed, 23 Sep 2026 00:01:12 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -43,6 +43,7 @@ network filters up to date.
 | [googlesc.json](googlesc.json)  | Google Special Crawlers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [googleutf.json](googleutf.json)  | Google User-Triggered Fetchers |  crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |  
 | [grafana.json](grafana.json)  | Grafana Synthetic Monitoring |  monitoring | [source](https://grafana.com/docs/grafana-cloud/testing/synthetic-monitoring/create-checks/public-probes/) |  
+| [greensnow.txt](greensnow.txt)  | GreenSnow |  threat | [source](https://greensnow.co/) |  
 | [hetzner.json](hetzner.json)  | Hetzner |  hosting | [source](https://www.hetzner.com/) |  
 | [ibmcloud.json](ibmcloud.json)  | IBM Cloud |  hosting | [source](https://www.ibm.com/cloud) |  
 | [icloudpr.csv](icloudpr.csv)  | iCloud Private Relay |  anonymiser | [source](https://support.apple.com/en-us/HT212614) |  
@@ -67,7 +68,6 @@ network filters up to date.
 | [stripe.json](stripe.json)  | Stripe |  saas | [source](https://docs.stripe.com/ips) |  
 | [tenable.json](tenable.json)  | Tenable Cloud Scanners |  scanner | [source](https://docs.tenable.com/vulnerability-management/Content/Settings/Sensors/CloudSensors.htm) |  
 | [tencent.json](tencent.json)  | Tencent Cloud |  hosting | [source](https://www.tencentcloud.com/) |  
-| [tor.txt](tor.txt)  | Tor Exit Nodes |  anonymiser | [source](https://check.torproject.org/) |  
 | [updown.json](updown.json)  | updown.io |  monitoring | [source](https://updown.io/api) |  
 | [uptimerobot.txt](uptimerobot.txt)  | UptimeRobot |  monitoring | [source](https://uptimerobot.com/help/locations/) |  
 | [uptrends.json](uptrends.json)  | Uptrends |  monitoring | [source](https://www.uptrends.com/support/kb/account/ip-addresses-for-whitelisting) |  
