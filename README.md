@@ -6,7 +6,7 @@ network filters up to date.
 
 ## Contents
 
-##### last updated: Thu, 24 Sep 2026 12:00:32 UTC
+##### last updated: Fri, 25 Sep 2026 00:00:29 UTC
 
 | File  | Description | Category | |
 | ------------- | ------------- | ------------- | ------------- |
@@ -68,6 +68,7 @@ network filters up to date.
 | [stripe.json](stripe.json)  | Stripe |  saas | [source](https://docs.stripe.com/ips) |  
 | [tenable.json](tenable.json)  | Tenable Cloud Scanners |  scanner | [source](https://docs.tenable.com/vulnerability-management/Content/Settings/Sensors/CloudSensors.htm) |  
 | [tencent.json](tencent.json)  | Tencent Cloud |  hosting | [source](https://www.tencentcloud.com/) |  
+| [tor.txt](tor.txt)  | Tor Exit Nodes |  anonymiser | [source](https://check.torproject.org/) |  
 | [updown.json](updown.json)  | updown.io |  monitoring | [source](https://updown.io/api) |  
 | [uptimerobot.txt](uptimerobot.txt)  | UptimeRobot |  monitoring | [source](https://uptimerobot.com/help/locations/) |  
 | [uptrends.json](uptrends.json)  | Uptrends |  monitoring | [source](https://www.uptrends.com/support/kb/account/ip-addresses-for-whitelisting) |  
