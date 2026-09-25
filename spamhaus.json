@@ -2487,7 +2487,8 @@
   },
   {
    "cidr": "103.95.56.0/22",
-   "sblid": "SBL700201"
+   "sblid": "SBL700201",
+   "rir": "apnic"
   },
   {
    "cidr": "103.95.180.0/22",
@@ -8551,7 +8552,7 @@
   },
   {
    "type": "metadata",
-   "timestamp": 1790262842,
+   "timestamp": 1790329442,
    "records": 1710
   }
  ],
@@ -8680,11 +8681,6 @@
    "cidr": "2405:e880::/32",
    "sblid": "SBL327648",
    "rir": "apnic"
-  },
-  {
-   "cidr": "2602:f68a::/40",
-   "sblid": "SBL678470",
-   "rir": "arin"
   },
   {
    "cidr": "2602:f9bb::/36",
@@ -9018,8 +9014,8 @@
   },
   {
    "type": "metadata",
-   "timestamp": 1789726442,
-   "records": 92
+   "timestamp": 1790329442,
+   "records": 91
   }
  ]
 }
