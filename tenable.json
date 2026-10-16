@@ -1,6 +1,6 @@
 {
-    "syncToken": "1774955404.950218",
-    "createDate": "2026-03-31 11:10:04.950218+00:00",
+    "syncToken": "1792062758.887651",
+    "createDate": "2026-10-15 11:12:38.887651+00:00",
     "additionalInfo": "Please add *.cloud.tenable.com with the wildcard character (*) to allow cloud.tenable.com and all subdomains, such as sensor.cloud.tenable.com",
     "prefixes": [
         {
@@ -242,13 +242,6 @@
             "sensor_group": "Brazil Cloud Scanners"
         },
         {
-            "ip_prefix": "51.112.93.0/24",
-            "region": "me-central-1",
-            "network_border_group": "me-central-1",
-            "service": "tenable-scanners",
-            "sensor_group": "UAE Cloud Scanners, EMEA Cloud Scanners"
-        },
-        {
             "ip_prefix": "162.159.129.83/32",
             "region": "static",
             "network_border_group": "static",
@@ -275,6 +268,13 @@
             "network_border_group": "static",
             "service": "tenable-scanners",
             "sensor_group": "tenable.io"
+        },
+        {
+            "ip_prefix": "18.99.5.0/25",
+            "region": "ca-central-1",
+            "network_border_group": "ca-central-1",
+            "service": "tenable-scanners",
+            "sensor_group": "CA Central Cloud Scanners"
         }
     ],
     "ipv6_prefixes": [
@@ -361,13 +361,6 @@
             "network_border_group": "sa-east-1",
             "service": "tenable-scanners",
             "sensor_group": "Brazil Cloud Scanners"
-        },
-        {
-            "ipv6_prefix": "2406:da17:524:dd00::/56",
-            "region": "me-central-1",
-            "network_border_group": "me-central-1",
-            "service": "tenable-scanners",
-            "sensor_group": "UAE Cloud Scanners, EMEA Cloud Scanners"
         },
         {
             "ipv6_prefix": "2606:4700:7::a29f:8153/128",
