@@ -3796,11 +3796,6 @@
    "rir": "afrinic"
   },
   {
-   "cidr": "154.201.82.0/24",
-   "sblid": "SBL699970",
-   "rir": "afrinic"
-  },
-  {
    "cidr": "154.209.190.0/24",
    "sblid": "SBL637315",
    "rir": "afrinic"
@@ -8407,8 +8402,8 @@
   },
   {
    "type": "metadata",
-   "timestamp": 1792064642,
-   "records": 1681
+   "timestamp": 1792084442,
+   "records": 1680
   }
  ],
  "ipv6": [
