@@ -4636,6 +4636,11 @@
    "rir": "ripencc"
   },
   {
+   "cidr": "185.30.160.0/23",
+   "sblid": "SBL677547",
+   "rir": "ripencc"
+  },
+  {
    "cidr": "185.30.168.0/22",
    "sblid": "SBL448551",
    "rir": "ripencc"
@@ -8457,8 +8462,8 @@
   },
   {
    "type": "metadata",
-   "timestamp": 1792160042,
-   "records": 1691
+   "timestamp": 1792233842,
+   "records": 1692
   }
  ],
  "ipv6": [
