@@ -1147,12 +1147,12 @@
   },
   {
    "cidr": "62.60.226.0/24",
-   "sblid": "SBL697779",
+   "sblid": "SBL671779",
    "rir": "ripencc"
   },
   {
    "cidr": "62.60.226.0/24",
-   "sblid": "SBL671779",
+   "sblid": "SBL697779",
    "rir": "ripencc"
   },
   {
@@ -3083,6 +3083,11 @@
   {
    "cidr": "112.213.96.0/19",
    "sblid": "SBL668365",
+   "rir": "apnic"
+  },
+  {
+   "cidr": "113.203.208.0/20",
+   "sblid": "SBL669279",
    "rir": "apnic"
   },
   {
@@ -8437,8 +8442,8 @@
   },
   {
    "type": "metadata",
-   "timestamp": 1792509242,
-   "records": 1687
+   "timestamp": 1792592042,
+   "records": 1688
   }
  ],
  "ipv6": [
@@ -8899,7 +8904,7 @@
   },
   {
    "type": "metadata",
-   "timestamp": 1792500242,
+   "timestamp": 1792592042,
    "records": 91
   }
  ]
