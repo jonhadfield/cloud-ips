@@ -3,119 +3,119 @@
     {
       "connection_name": "al-tia.prod.surfshark.com",
       "ipv4": [
-        "172.216.15.35",
-        "172.216.15.163"
+        "172.216.15.117",
+        "172.216.15.244"
       ],
       "ipv6": null
     },
     {
       "connection_name": "dz-alg.prod.surfshark.com",
       "ipv4": [
-        "62.197.144.115",
-        "62.197.144.117"
+        "62.197.144.117",
+        "62.197.144.115"
       ],
       "ipv6": null
     },
     {
       "connection_name": "ad-leu.prod.surfshark.com",
       "ipv4": [
-        "62.197.152.131",
-        "62.197.152.133"
+        "62.197.152.101",
+        "62.197.152.83"
       ],
       "ipv6": null
     },
     {
       "connection_name": "ar-bua.prod.surfshark.com",
       "ipv4": [
-        "89.117.41.149",
-        "89.117.41.83"
+        "89.117.41.163",
+        "89.117.41.101"
       ],
       "ipv6": null
     },
     {
       "connection_name": "am-evn.prod.surfshark.com",
       "ipv4": [
-        "92.62.120.85",
-        "92.62.120.117"
+        "92.62.120.133",
+        "92.62.120.101"
       ],
       "ipv6": null
     },
     {
       "connection_name": "au-per.prod.surfshark.com",
       "ipv4": [
-        "124.150.139.35",
-        "124.150.139.59"
+        "124.150.139.59",
+        "124.150.139.35"
       ],
       "ipv6": null
     },
     {
       "connection_name": "au-adl.prod.surfshark.com",
       "ipv4": [
-        "86.38.100.8",
-        "103.214.20.187"
+        "103.214.20.203",
+        "103.214.20.197"
       ],
       "ipv6": null
     },
     {
       "connection_name": "au-bne.prod.surfshark.com",
       "ipv4": [
-        "144.48.39.13",
-        "144.48.39.83"
+        "144.48.39.83",
+        "86.38.102.6"
       ],
       "ipv6": null
     },
     {
       "connection_name": "au-mel.prod.surfshark.com",
       "ipv4": [
-        "195.86.27.4",
-        "195.86.27.2"
+        "144.48.38.21",
+        "195.86.27.27"
       ],
       "ipv6": null
     },
     {
       "connection_name": "au-syd.prod.surfshark.com",
       "ipv4": [
-        "149.88.101.7",
-        "95.173.193.4"
+        "180.149.228.163",
+        "180.149.228.165"
       ],
       "ipv6": null
     },
     {
       "connection_name": "at-vie.prod.surfshark.com",
       "ipv4": [
-        "87.249.133.14",
-        "89.187.168.239"
+        "89.187.168.39",
+        "87.249.133.19"
       ],
       "ipv6": null
     },
     {
       "connection_name": "az-bak.prod.surfshark.com",
       "ipv4": [
-        "89.117.47.51",
-        "89.117.47.53"
+        "89.117.47.67",
+        "89.117.47.35"
       ],
       "ipv6": null
     },
     {
       "connection_name": "bs-nas.prod.surfshark.com",
       "ipv4": [
-        "62.197.145.20",
-        "62.197.145.18"
+        "62.197.145.52",
+        "62.197.145.36"
       ],
       "ipv6": null
     },
     {
       "connection_name": "bd-dac.prod.surfshark.com",
       "ipv4": [
-        "62.197.153.54",
-        "62.197.153.56"
+        "62.197.153.46",
+        "62.197.153.51"
       ],
       "ipv6": null
     },
     {
       "connection_name": "be-bru.prod.surfshark.com",
       "ipv4": [
-        "89.249.73.213",
+        "79.127.164.14",
         "5.253.205.181"
       ],
       "ipv6": null
@@ -123,47 +123,47 @@
     {
       "connection_name": "be-anr.prod.surfshark.com",
       "ipv4": [
-        "188.95.55.123",
-        "188.95.54.48"
+        "188.95.54.38",
+        "188.95.55.23"
       ],
       "ipv6": null
     },
     {
       "connection_name": "bz-blp.prod.surfshark.com",
       "ipv4": [
-        "212.119.33.36",
-        "212.119.33.20"
+        "212.119.33.20",
+        "212.119.33.36"
       ],
       "ipv6": null
     },
     {
       "connection_name": "bt-pbh.prod.surfshark.com",
       "ipv4": [
-        "62.197.157.41",
-        "62.197.157.39"
+        "62.197.157.46",
+        "62.197.157.44"
       ],
       "ipv6": null
     },
     {
       "connection_name": "bo-sre.prod.surfshark.com",
       "ipv4": [
-        "194.169.171.50",
-        "194.169.171.34"
+        "194.169.171.34",
+        "194.169.171.50"
       ],
       "ipv6": null
     },
     {
       "connection_name": "ba-sjj.prod.surfshark.com",
       "ipv4": [
-        "89.117.46.37",
-        "89.117.46.53"
+        "89.117.46.35",
+        "89.117.46.51"
       ],
       "ipv6": null
     },
     {
       "connection_name": "br-sao.prod.surfshark.com",
       "ipv4": [
-        "138.199.58.39",
+        "149.102.251.168",
         "193.19.205.120"
       ],
       "ipv6": null
@@ -179,7 +179,7 @@
     {
       "connection_name": "bg-sof.prod.surfshark.com",
       "ipv4": [
-        "156.146.55.196",
+        "37.19.203.78",
         "37.19.203.76"
       ],
       "ipv6": null
@@ -187,173 +187,150 @@
     {
       "connection_name": "kh-pnh.prod.surfshark.com",
       "ipv4": [
-        "62.197.146.34",
-        "62.197.146.32"
+        "62.197.146.29",
+        "62.197.146.19"
       ],
       "ipv6": null
     },
     {
       "connection_name": "ca-mon.prod.surfshark.com",
       "ipv4": [
-        "62.93.167.78",
-        "195.86.1.49"
+        "195.86.1.46",
+        "62.93.167.95"
       ],
       "ipv6": null
     },
     {
       "connection_name": "ca-tor.prod.surfshark.com",
       "ipv4": [
-        "37.19.211.72",
-        "37.19.211.84"
+        "149.88.98.33",
+        "37.19.211.130"
       ],
       "ipv6": null
     },
     {
       "connection_name": "ca-van.prod.surfshark.com",
       "ipv4": [
-        "216.246.31.70",
-        "149.22.81.152"
+        "149.22.81.157",
+        "84.20.25.98"
       ],
       "ipv6": null
     },
     {
       "connection_name": "cl-san.prod.surfshark.com",
       "ipv4": [
-        "149.88.104.144",
-        "149.88.104.139"
+        "149.88.104.36",
+        "149.88.104.41"
       ],
       "ipv6": null
     },
     {
       "connection_name": "co-bog.prod.surfshark.com",
       "ipv4": [
-        "149.88.111.100",
-        "149.88.111.231"
+        "149.88.111.231",
+        "149.88.111.100"
       ],
       "ipv6": null
     },
     {
       "connection_name": "cr-sjn.prod.surfshark.com",
       "ipv4": [
-        "176.227.241.66",
-        "176.227.241.50"
+        "176.227.241.66"
       ],
       "ipv6": null
     },
     {
       "connection_name": "hr-zag.prod.surfshark.com",
       "ipv4": [
-        "149.102.247.137",
-        "149.102.247.133"
+        "149.102.247.135",
+        "149.102.247.139"
       ],
       "ipv6": null
     },
     {
       "connection_name": "cy-nic.prod.surfshark.com",
       "ipv4": [
-        "84.46.131.35",
-        "84.46.131.99"
+        "84.46.131.101",
+        "84.46.131.69"
       ],
       "ipv6": null
     },
     {
       "connection_name": "cz-prg.prod.surfshark.com",
       "ipv4": [
-        "185.242.6.91",
-        "185.242.6.123"
+        "185.242.6.123",
+        "185.242.6.51"
       ],
       "ipv6": null
     },
     {
       "connection_name": "dk-cph.prod.surfshark.com",
       "ipv4": [
-        "89.45.7.29",
-        "146.70.92.5"
+        "146.70.42.155",
+        "146.70.92.61"
       ],
       "ipv6": null
     },
     {
       "connection_name": "ec-uio.prod.surfshark.com",
       "ipv4": [
-        "92.62.122.18",
-        "92.62.122.20"
+        "92.62.122.36",
+        "92.62.122.34"
       ],
       "ipv6": null
     },
     {
       "connection_name": "eg-cai.prod.surfshark.com",
       "ipv4": [
-        "62.197.147.51",
-        "62.197.147.69"
+        "62.197.147.67",
+        "62.197.147.53"
       ],
       "ipv6": null
     },
     {
       "connection_name": "ee-tll.prod.surfshark.com",
       "ipv4": [
-        "185.174.159.119",
-        "185.174.159.196"
+        "185.174.159.111"
       ],
       "ipv6": null
     },
     {
       "connection_name": "fi-hel.prod.surfshark.com",
       "ipv4": [
-        "193.56.113.38",
-        "193.56.113.41"
+        "193.56.113.13",
+        "193.56.113.48"
       ],
       "ipv6": null
     },
     {
       "connection_name": "fr-par.prod.surfshark.com",
       "ipv4": [
-        "143.244.57.81",
-        "85.204.70.95"
+        "85.204.70.117",
+        "146.70.194.251"
       ],
       "ipv6": null
     },
     {
       "connection_name": "fr-bod.prod.surfshark.com",
       "ipv4": [
-        "45.134.79.163",
-        "45.134.79.161"
+        "45.134.79.168",
+        "45.134.79.138"
       ],
       "ipv6": null
     },
     {
       "connection_name": "fr-mrs.prod.surfshark.com",
       "ipv4": [
-        "103.93.42.21",
-        "103.93.42.23"
+        "103.93.42.31",
+        "138.199.16.130"
       ],
       "ipv6": null
     },
     {
       "connection_name": "ge-tbs.prod.surfshark.com",
       "ipv4": [
-        "83.97.115.20",
-        "83.97.115.18"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "de-fra-st007.prod.surfshark.com",
-      "ipv4": [
-        "149.34.246.35"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "de-fra-st003.prod.surfshark.com",
-      "ipv4": [
-        "45.87.212.183"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "de-fra-st006.prod.surfshark.com",
-      "ipv4": [
-        "169.150.209.214"
+        "83.97.115.36",
+        "83.97.115.34"
       ],
       "ipv6": null
     },
@@ -365,31 +342,16 @@
       "ipv6": null
     },
     {
-      "connection_name": "de-fra.prod.surfshark.com",
+      "connection_name": "de-fra-st003.prod.surfshark.com",
       "ipv4": [
-        "146.70.36.141",
-        "138.199.19.179"
+        "45.87.212.183"
       ],
       "ipv6": null
     },
     {
-      "connection_name": "de-fra-st005.prod.surfshark.com",
+      "connection_name": "de-fra-st007.prod.surfshark.com",
       "ipv4": [
-        "195.181.174.228"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "de-ber.prod.surfshark.com",
-      "ipv4": [
-        "86.38.98.23"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "de-fra-st004.prod.surfshark.com",
-      "ipv4": [
-        "195.181.174.226"
+        "149.34.246.35"
       ],
       "ipv6": null
     },
@@ -401,24 +363,61 @@
       "ipv6": null
     },
     {
+      "connection_name": "de-fra.prod.surfshark.com",
+      "ipv4": [
+        "89.117.104.7",
+        "91.239.157.186"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "de-ber.prod.surfshark.com",
+      "ipv4": [
+        "194.36.108.13",
+        "86.38.98.81"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "de-fra-st006.prod.surfshark.com",
+      "ipv4": [
+        "169.150.209.214"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "de-fra-st004.prod.surfshark.com",
+      "ipv4": [
+        "195.181.174.226"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "de-fra-st005.prod.surfshark.com",
+      "ipv4": [
+        "195.181.174.228"
+      ],
+      "ipv6": null
+    },
+    {
       "connection_name": "gh-acc.prod.surfshark.com",
       "ipv4": [
-        "172.216.244.36"
+        "172.216.244.36",
+        "172.216.244.20"
       ],
       "ipv6": null
     },
     {
       "connection_name": "gr-ath.prod.surfshark.com",
       "ipv4": [
-        "149.102.246.100",
-        "79.127.181.164"
+        "149.102.246.103",
+        "149.102.246.106"
       ],
       "ipv6": null
     },
     {
       "connection_name": "gl-goh.prod.surfshark.com",
       "ipv4": [
-        "92.62.123.101",
         "92.62.123.99"
       ],
       "ipv6": null
@@ -426,56 +425,55 @@
     {
       "connection_name": "hk-hkg.prod.surfshark.com",
       "ipv4": [
-        "156.146.45.200",
-        "149.40.54.70"
+        "138.199.62.149",
+        "156.146.45.109"
       ],
       "ipv6": null
     },
     {
       "connection_name": "hu-bud.prod.surfshark.com",
       "ipv4": [
-        "79.127.182.9",
-        "146.70.120.37"
+        "146.70.120.35",
+        "79.127.182.6"
       ],
       "ipv6": null
     },
     {
       "connection_name": "is-rkv.prod.surfshark.com",
       "ipv4": [
-        "45.139.252.24",
-        "45.139.252.114"
+        "45.139.252.112",
+        "45.139.252.18"
       ],
       "ipv6": null
     },
     {
       "connection_name": "in-del.prod.surfshark.com",
       "ipv4": [
-        "92.62.121.85",
-        "92.62.121.69"
+        "92.62.121.229"
       ],
       "ipv6": null
     },
     {
       "connection_name": "in-mum.prod.surfshark.com",
       "ipv4": [
-        "176.227.240.10",
-        "176.227.240.8"
+        "176.227.240.68",
+        "176.227.240.58"
       ],
       "ipv6": null
     },
     {
       "connection_name": "id-jak.prod.surfshark.com",
       "ipv4": [
-        "93.185.162.117",
-        "93.185.162.135"
+        "93.185.162.7",
+        "93.185.162.132"
       ],
       "ipv6": null
     },
     {
       "connection_name": "ie-dub.prod.surfshark.com",
       "ipv4": [
-        "149.34.242.14",
-        "149.34.242.89"
+        "149.34.242.39",
+        "149.34.242.62"
       ],
       "ipv6": null
     },
@@ -490,95 +488,24 @@
     {
       "connection_name": "il-tlv.prod.surfshark.com",
       "ipv4": [
-        "169.150.227.147",
-        "169.150.227.140"
+        "169.150.227.135",
+        "169.150.227.4"
       ],
       "ipv6": null
     },
     {
       "connection_name": "it-mil.prod.surfshark.com",
       "ipv4": [
-        "146.70.182.69",
-        "84.17.58.190"
+        "95.174.64.243",
+        "146.70.182.91"
       ],
       "ipv6": null
     },
     {
       "connection_name": "it-rom.prod.surfshark.com",
       "ipv4": [
-        "37.120.207.205",
-        "37.120.207.189"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "jp-tok-st021.prod.surfshark.com",
-      "ipv4": [
-        "37.19.205.169"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "jp-tok-st018.prod.surfshark.com",
-      "ipv4": [
-        "37.19.205.182"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "jp-tok.prod.surfshark.com",
-      "ipv4": [
-        "138.199.22.141",
-        "146.70.205.187"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "jp-tok-st014.prod.surfshark.com",
-      "ipv4": [
-        "37.19.205.187"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "jp-tok-st016.prod.surfshark.com",
-      "ipv4": [
-        "37.19.205.177"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "jp-tok-st025.prod.surfshark.com",
-      "ipv4": [
-        "89.187.161.4"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "jp-tok-st015.prod.surfshark.com",
-      "ipv4": [
-        "138.199.22.153"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "jp-tok-st022.prod.surfshark.com",
-      "ipv4": [
-        "37.19.205.162"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "jp-tok-st024.prod.surfshark.com",
-      "ipv4": [
-        "89.187.161.2"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "jp-tok-st017.prod.surfshark.com",
-      "ipv4": [
-        "37.19.205.179"
+        "87.101.94.109",
+        "37.120.207.235"
       ],
       "ipv6": null
     },
@@ -590,9 +517,38 @@
       "ipv6": null
     },
     {
-      "connection_name": "jp-tok-st023.prod.surfshark.com",
+      "connection_name": "jp-tok.prod.surfshark.com",
       "ipv4": [
-        "37.19.205.164"
+        "93.118.41.106",
+        "93.118.41.98"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "jp-tok-st016.prod.surfshark.com",
+      "ipv4": [
+        "37.19.205.177"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "jp-tok-st024.prod.surfshark.com",
+      "ipv4": [
+        "89.187.161.2"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "jp-tok-st018.prod.surfshark.com",
+      "ipv4": [
+        "37.19.205.182"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "jp-tok-st014.prod.surfshark.com",
+      "ipv4": [
+        "37.19.205.187"
       ],
       "ipv6": null
     },
@@ -604,797 +560,573 @@
       "ipv6": null
     },
     {
+      "connection_name": "jp-tok-st021.prod.surfshark.com",
+      "ipv4": [
+        "37.19.205.169"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "jp-tok-st022.prod.surfshark.com",
+      "ipv4": [
+        "37.19.205.162"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "jp-tok-st015.prod.surfshark.com",
+      "ipv4": [
+        "138.199.22.153"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "jp-tok-st023.prod.surfshark.com",
+      "ipv4": [
+        "37.19.205.164"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "jp-tok-st025.prod.surfshark.com",
+      "ipv4": [
+        "89.187.161.4"
+      ],
+      "ipv6": null
+    },
+    {
+      "connection_name": "jp-tok-st017.prod.surfshark.com",
+      "ipv4": [
+        "37.19.205.179"
+      ],
+      "ipv6": null
+    },
+    {
       "connection_name": "kz-ura.prod.surfshark.com",
       "ipv4": [
-        "217.9.250.99"
+        "217.9.250.99",
+        "217.9.250.85"
       ],
       "ipv6": null
     },
     {
       "connection_name": "la-vte.prod.surfshark.com",
       "ipv4": [
-        "194.169.168.17",
-        "194.169.168.19"
+        "194.169.168.24",
+        "194.169.168.22"
       ],
       "ipv6": null
     },
     {
       "connection_name": "lv-rig.prod.surfshark.com",
       "ipv4": [
-        "80.246.31.82",
-        "159.148.58.7"
+        "80.246.31.98",
+        "159.148.58.9"
       ],
       "ipv6": null
     },
     {
       "connection_name": "li-qvu.prod.surfshark.com",
       "ipv4": [
-        "62.197.150.51",
-        "62.197.150.69"
+        "62.197.150.69",
+        "62.197.150.51"
       ],
       "ipv6": null
     },
     {
       "connection_name": "lt-vno.prod.surfshark.com",
       "ipv4": [
-        "62.197.149.123",
-        "62.197.149.105"
+        "62.197.149.115",
+        "62.197.149.121"
       ],
       "ipv6": null
     },
     {
       "connection_name": "lu-ste.prod.surfshark.com",
       "ipv4": [
-        "145.223.8.12"
+        "185.153.151.156",
+        "185.153.151.159"
       ],
       "ipv6": null
     },
     {
       "connection_name": "mo-mfm.prod.surfshark.com",
-      "ipv4": [
-        "62.197.154.49",
-        "62.197.154.22"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "my-kul.prod.surfshark.com",
-      "ipv4": [
-        "152.233.3.57",
-        "185.196.0.10"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "mt-mla.prod.surfshark.com",
-      "ipv4": [
-        "86.38.103.53",
-        "86.38.103.37"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "ma-rab.prod.surfshark.com",
-      "ipv4": [
-        "89.117.44.18",
-        "89.117.44.36"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "mx-qro.prod.surfshark.com",
-      "ipv4": [
-        "149.88.22.25",
-        "149.88.22.71"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "md-chi.prod.surfshark.com",
-      "ipv4": [
-        "217.9.245.85",
-        "217.9.245.83"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "mc-mcm.prod.surfshark.com",
-      "ipv4": [
-        "62.197.151.18",
-        "62.197.151.20"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "mn-uln.prod.surfshark.com",
-      "ipv4": [
-        "62.197.155.69",
-        "62.197.155.67"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "me-tgd.prod.surfshark.com",
-      "ipv4": [
-        "62.197.159.18",
-        "62.197.159.34"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "mm-nyt.prod.surfshark.com",
-      "ipv4": [
-        "45.95.242.54",
-        "45.95.242.56"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "np-ktm.prod.surfshark.com",
-      "ipv4": [
-        "194.169.170.39",
-        "194.169.170.41"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "nl-ams.prod.surfshark.com",
-      "ipv4": [
-        "146.70.86.155",
-        "185.212.171.179"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "nl-ams-st001.prod.surfshark.com",
-      "ipv4": [
-        "81.19.209.51"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "nz-akl.prod.surfshark.com",
-      "ipv4": [
-        "62.93.164.233",
-        "180.149.231.13"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "ng-lag.prod.surfshark.com",
-      "ipv4": [
-        "79.127.149.39",
-        "79.127.149.51"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "mk-skp.prod.surfshark.com",
-      "ipv4": [
-        "217.9.244.101",
-        "217.9.244.99"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "no-osl.prod.surfshark.com",
-      "ipv4": [
-        "79.127.150.132",
-        "79.127.150.140"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "pk-khi.prod.surfshark.com",
-      "ipv4": [
-        "151.244.60.22",
-        "151.244.60.24"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "pa-pac.prod.surfshark.com",
-      "ipv4": [
-        "185.244.139.85",
-        "185.244.139.99"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "py-asu.prod.surfshark.com",
-      "ipv4": [
-        "194.26.131.34",
-        "194.26.131.36"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "pe-lim.prod.surfshark.com",
-      "ipv4": [
-        "95.173.223.115",
-        "95.173.223.110"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "ph-mnl.prod.surfshark.com",
-      "ipv4": [
-        "151.240.11.27"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "pl-gdn.prod.surfshark.com",
-      "ipv4": [
-        "5.187.54.149",
-        "178.255.41.197"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "pl-waw.prod.surfshark.com",
-      "ipv4": [
-        "45.134.212.45",
-        "45.128.38.149"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "pt-opo.prod.surfshark.com",
-      "ipv4": [
-        "103.192.205.56",
-        "103.192.205.52"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "pt-lis.prod.surfshark.com",
-      "ipv4": [
-        "149.88.20.91",
-        "149.88.20.83"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "pr-sju.prod.surfshark.com",
-      "ipv4": [
-        "45.139.253.18",
-        "45.139.253.4"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "ro-buc.prod.surfshark.com",
-      "ipv4": [
-        "185.102.217.161",
-        "169.150.199.171"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "sa-ruh.prod.surfshark.com",
-      "ipv4": [
-        "45.150.5.53",
-        "45.150.5.35"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "rs-beg.prod.surfshark.com",
-      "ipv4": [
-        "37.120.193.227",
-        "130.195.209.195"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "sg-sng-st005.prod.surfshark.com",
-      "ipv4": [
-        "138.199.60.175"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "sg-sng.prod.surfshark.com",
-      "ipv4": [
-        "146.70.192.157",
-        "146.70.192.173"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "sg-sng-st006.prod.surfshark.com",
-      "ipv4": [
-        "138.199.60.177"
-      ],
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "sg-sng-st005.prod.surfshark.com",
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "sg-sng-st009.prod.surfshark.com",
-      "ipv4": [
-        "138.199.60.180"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "sg-sng-st008.prod.surfshark.com",
-      "ipv4": [
-        "138.199.60.172"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "sg-sng-st007.prod.surfshark.com",
-      "ipv4": [
-        "138.199.60.170"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "sg-sng-st010.prod.surfshark.com",
-      "ipv4": [
-        "138.199.60.182"
-      ],
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "sg-sng-st008.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "sg-sng-st007.prod.surfshark.com",
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "sk-bts.prod.surfshark.com",
-      "ipv4": [
-        "146.70.114.187",
-        "185.76.8.212"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "si-lju.prod.surfshark.com",
-      "ipv4": [
-        "195.158.249.23",
-        "195.158.249.21"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "za-jnb.prod.surfshark.com",
-      "ipv4": [
-        "154.47.30.108",
-        "149.102.248.143"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "kr-seo.prod.surfshark.com",
-      "ipv4": [
-        "82.26.199.25",
-        "61.97.248.19"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "es-bcn.prod.surfshark.com",
-      "ipv4": [
-        "82.26.159.13",
-        "82.26.159.26"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "es-mad.prod.surfshark.com",
-      "ipv4": [
-        "135.136.61.51",
-        "135.136.61.53"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "es-vlc.prod.surfshark.com",
-      "ipv4": [
-        "193.19.207.92",
-        "193.19.207.90"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "lk-cmb.prod.surfshark.com",
-      "ipv4": [
-        "62.197.156.34",
-        "62.197.156.36"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "se-sto.prod.surfshark.com",
-      "ipv4": [
-        "185.76.9.46",
-        "185.76.9.57"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "st-age-st001.prod.surfshark.com",
-      "ipv4": [
-        "84.17.53.225"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "st-age-st002.prod.surfshark.com",
-      "ipv4": [
-        "84.17.53.227"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "ch-zur.prod.surfshark.com",
-      "ipv4": [
-        "89.37.173.27",
-        "89.37.173.51"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "tw-tai.prod.surfshark.com",
-      "ipv4": [
-        "89.117.42.85",
-        "45.144.227.88"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "th-bkk.prod.surfshark.com",
-      "ipv4": [
-        "151.240.88.85",
-        "151.240.88.67"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "tr-ist.prod.surfshark.com",
-      "ipv4": [
-        "45.136.155.193",
-        "45.136.155.58"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "ua-iev.prod.surfshark.com",
-      "ipv4": [
-        "143.244.46.226",
-        "143.244.46.115"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "ae-dub.prod.surfshark.com",
-      "ipv4": [
-        "146.70.102.53",
-        "146.70.191.61"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "uk-lon.prod.surfshark.com",
-      "ipv4": [
-        "103.138.124.23",
-        "103.138.124.13"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "uk-edi.prod.surfshark.com",
-      "ipv4": [
-        "188.240.57.107",
-        "188.240.57.99"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "uk-gla.prod.surfshark.com",
-      "ipv4": [
-        "188.240.58.80",
-        "89.37.66.109"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
-      "connection_name": "uk-man.prod.surfshark.com",
-      "ipv4": [
-        "89.238.132.77",
-        "103.219.21.1"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "uk-lon-st001.prod.surfshark.com",
-      "ipv4": [
-        "217.146.82.83"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "uk-lon-st004.prod.surfshark.com",
-      "ipv4": [
-        "185.44.76.186"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "uk-lon-st005.prod.surfshark.com",
-      "ipv4": [
-        "185.44.76.188"
-      ],
+      "connection_name": "uk-edi.prod.surfshark.com",
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "uk-lon-st002.prod.surfshark.com",
-      "ipv4": [
-        "185.134.22.80"
-      ],
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "uk-lon-st005.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "uk-lon.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "uk-man.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "uk-lon-st001.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "uk-lon-st004.prod.surfshark.com",
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "uk-lon-st003.prod.surfshark.com",
-      "ipv4": [
-        "185.134.22.92"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "us-bos.prod.surfshark.com",
-      "ipv4": [
-        "43.225.189.61",
-        "149.40.50.201"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "us-nyc-st005.prod.surfshark.com",
-      "ipv4": [
-        "193.148.18.53"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-nyc.prod.surfshark.com",
-      "ipv4": [
-        "91.246.58.176",
-        "84.17.35.106"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-buf.prod.surfshark.com",
-      "ipv4": [
-        "64.44.38.243",
-        "172.93.148.163"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-ash.prod.surfshark.com",
-      "ipv4": [
-        "37.19.206.36",
-        "151.240.254.52"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-nyc-st002.prod.surfshark.com",
-      "ipv4": [
-        "92.119.177.21"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-dtw.prod.surfshark.com",
-      "ipv4": [
-        "206.212.255.133",
-        "23.136.68.171"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-chi.prod.surfshark.com",
-      "ipv4": [
-        "138.199.42.155",
-        "103.103.98.3"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-clt.prod.surfshark.com",
-      "ipv4": [
-        "151.244.36.31",
-        "151.244.36.43"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-ltm.prod.surfshark.com",
-      "ipv4": [
-        "170.39.214.229",
-        "154.16.169.79"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-bna.prod.surfshark.com",
-      "ipv4": [
-        "82.26.162.18",
-        "82.26.162.38"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-atl.prod.surfshark.com",
-      "ipv4": [
-        "89.222.103.121",
-        "89.222.103.169"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-oma.prod.surfshark.com",
-      "ipv4": [
-        "145.223.7.31",
-        "145.223.7.38"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-kan.prod.surfshark.com",
-      "ipv4": [
-        "74.80.182.89",
-        "74.80.182.74"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-mia.prod.surfshark.com",
-      "ipv4": [
-        "149.34.250.36",
-        "149.102.224.196"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-den.prod.surfshark.com",
-      "ipv4": [
-        "64.44.86.165",
-        "212.102.44.113"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-dal.prod.surfshark.com",
-      "ipv4": [
-        "2.56.189.80",
-        "212.102.40.71"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-sea.prod.surfshark.com",
-      "ipv4": [
-        "212.102.46.35",
-        "138.199.12.52"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-slc.prod.surfshark.com",
-      "ipv4": [
-        "172.216.252.22",
-        "172.216.252.12"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-hou.prod.surfshark.com",
-      "ipv4": [
-        "149.40.58.22",
-        "149.40.58.2"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-bdn.prod.surfshark.com",
-      "ipv4": [
-        "45.43.14.118",
-        "66.235.168.197"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-phx.prod.surfshark.com",
-      "ipv4": [
-        "45.86.208.112",
-        "45.86.211.25"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-las.prod.surfshark.com",
-      "ipv4": [
-        "79.110.54.91",
-        "79.110.53.13"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-sfo.prod.surfshark.com",
-      "ipv4": [
-        "89.117.45.226",
-        "89.117.45.195"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-sjc.prod.surfshark.com",
-      "ipv4": [
-        "156.146.54.74",
-        "156.146.54.194"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-lax.prod.surfshark.com",
-      "ipv4": [
-        "45.149.173.232",
-        "89.187.187.88"
-      ],
-      "ipv6": null
-    },
-    {
-      "connection_name": "us-nyc-st004.prod.surfshark.com",
-      "ipv4": [
-        "193.148.18.51"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "us-nyc-st003.prod.surfshark.com",
-      "ipv4": [
-        "92.119.177.23"
-      ],
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-nyc.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-buf.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-ash.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-dtw.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-chi.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-clt.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-ltm.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-bna.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-atl.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-oma.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-kan.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-mia.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-den.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-sea.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-dal.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-hou.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-slc.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-bdn.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-phx.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-las.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-sfo.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-sjc.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-lax.prod.surfshark.com",
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-nyc-st002.prod.surfshark.com",
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "us-nyc-st001.prod.surfshark.com",
-      "ipv4": [
-        "92.119.177.19"
-      ],
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
+      "connection_name": "us-nyc-st004.prod.surfshark.com",
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "uy-mvd.prod.surfshark.com",
-      "ipv4": [
-        "212.119.32.36",
-        "212.119.32.18"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "uz-tas.prod.surfshark.com",
-      "ipv4": [
-        "94.154.124.101",
-        "94.154.124.83"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "ve-car.prod.surfshark.com",
-      "ipv4": [
-        "45.149.3.20",
-        "45.149.3.36"
-      ],
+      "ipv4": null,
       "ipv6": null
     },
     {
       "connection_name": "vn-hcm.prod.surfshark.com",
-      "ipv4": [
-        "83.97.112.32",
-        "83.97.112.34"
-      ],
+      "ipv4": null,
       "ipv6": null
     }
   ]
