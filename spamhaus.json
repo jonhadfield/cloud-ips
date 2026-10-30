@@ -866,11 +866,6 @@
    "rir": "ripencc"
   },
   {
-   "cidr": "45.132.180.0/24",
-   "sblid": "SBL692131",
-   "rir": "ripencc"
-  },
-  {
    "cidr": "45.133.73.0/24",
    "sblid": "SBL692432",
    "rir": "ripencc"
@@ -2272,11 +2267,6 @@
   {
    "cidr": "94.74.191.0/24",
    "sblid": "SBL656296",
-   "rir": "ripencc"
-  },
-  {
-   "cidr": "94.154.35.0/24",
-   "sblid": "SBL692132",
    "rir": "ripencc"
   },
   {
@@ -3860,11 +3850,6 @@
    "rir": "arin"
   },
   {
-   "cidr": "144.172.65.0/24",
-   "sblid": "SBL699979",
-   "rir": "arin"
-  },
-  {
    "cidr": "144.215.0.0/16",
    "sblid": "SBL641808",
    "rir": "arin"
@@ -4748,6 +4733,10 @@
    "cidr": "176.65.139.0/24",
    "sblid": "SBL692426",
    "rir": "ripencc"
+  },
+  {
+   "cidr": "176.65.144.0/24",
+   "sblid": "SBL701006"
   },
   {
    "cidr": "176.65.148.0/22",
@@ -8796,8 +8785,8 @@
   },
   {
    "type": "metadata",
-   "timestamp": 1793274242,
-   "records": 1759
+   "timestamp": 1793295842,
+   "records": 1757
   }
  ],
  "ipv6": [
