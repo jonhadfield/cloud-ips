@@ -746,6 +746,11 @@
    "rir": "arin"
   },
   {
+   "cidr": "45.74.252.0/23",
+   "sblid": "SBL697484",
+   "rir": "arin"
+  },
+  {
    "cidr": "45.80.37.0/24",
    "sblid": "SBL690077",
    "rir": "ripencc"
@@ -1463,11 +1468,6 @@
   {
    "cidr": "77.109.3.0/24",
    "sblid": "SBL679506",
-   "rir": "ripencc"
-  },
-  {
-   "cidr": "77.244.221.0/24",
-   "sblid": "SBL682827",
    "rir": "ripencc"
   },
   {
@@ -8822,7 +8822,7 @@
   },
   {
    "type": "metadata",
-   "timestamp": 1793961842,
+   "timestamp": 1793979842,
    "records": 1764
   }
  ],
