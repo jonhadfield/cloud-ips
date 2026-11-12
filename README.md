@@ -8,7 +8,7 @@ firewall allowlists, blocklists and network filters.
 
 ## Contents
 
-##### last updated: Wed, 11 Nov 2026 12:00:39 UTC
+##### last updated: Thu, 12 Nov 2026 00:06:02 UTC
 
 | File | Provider | Category | Source |
 | --- | --- | --- | --- |
@@ -53,7 +53,9 @@ firewall allowlists, blocklists and network filters.
 | [google.json](google.json) | Google | hosting | [source](https://support.google.com/a/answer/10026322) |
 | [googlebot.json](googlebot.json) | Google Crawler Bots | crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |
 | [googlesc.json](googlesc.json) | Google Special Crawlers | crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |
+| [googleuta.json](googleuta.json) | Google User-Triggered Agents | crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |
 | [googleutf.json](googleutf.json) | Google User-Triggered Fetchers | crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |
+| [googleutfg.json](googleutfg.json) | Google User-Triggered Fetchers (Google) | crawlers | [source](https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot) |
 | [grafana.json](grafana.json) | Grafana Synthetic Monitoring | monitoring | [source](https://grafana.com/docs/grafana-cloud/testing/synthetic-monitoring/create-checks/public-probes/) |
 | [greensnow.txt](greensnow.txt) | GreenSnow | threat | [source](https://greensnow.co/) |
 | [hetzner.json](hetzner.json) | Hetzner | hosting | [source](https://www.hetzner.com/) |
@@ -77,6 +79,7 @@ firewall allowlists, blocklists and network filters.
 | [oci.json](oci.json) | Oracle Cloud Infrastructure | hosting | [source](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/addressranges.htm) |
 | [ohdear.txt](ohdear.txt) | Oh Dear | monitoring | [source](https://ohdear.app/docs/faq/what-ips-does-oh-dear-monitor-from) |
 | [okta.json](okta.json) | Okta | saas | [source](https://help.okta.com/en-us/content/topics/security/ip-address-allow-listing.htm) |
+| [onetrust.txt](onetrust.txt) | OneTrust | scanner | [source](https://my.onetrust.com/s/article/UUID-21f6bff2-1b12-8c67-e8b0-d852e36f37af) |
 | [openai.json](openai.json) | OpenAI Bots | crawlers | [source](https://platform.openai.com/docs/bots) |
 | [ovh.json](ovh.json) | OVH | hosting | [source](https://www.ovh.com/) |
 | [pingdom.json](pingdom.json) | Pingdom | monitoring | [source](https://www.pingdom.com/) |
