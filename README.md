@@ -8,7 +8,7 @@ firewall allowlists, blocklists and network filters.
 
 ## Contents
 
-##### last updated: Thu, 12 Nov 2026 00:06:02 UTC
+##### last updated: Thu, 12 Nov 2026 12:01:05 UTC
 
 | File | Provider | Category | Source |
 | --- | --- | --- | --- |
