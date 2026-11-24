@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-11-23T11:45:48.410911
+#    updated: 2026-11-23T22:45:32.930647
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-45.198.224.0	45.198.224.255	24	365	OWS	US	CSOC@ontario.ca
-199.165.159.0	199.165.159.255	24	361	-	-	-
-77.239.124.0	77.239.124.255	24	355	-	-	-
-66.132.172.0	66.132.172.255	24	352	-	-	-
-66.132.186.0	66.132.186.255	24	350	-	-	-
-198.235.24.0	198.235.24.255	24	350	GOOGLE-CLOUD-PLATFORM	US	None
-195.182.16.0	195.182.16.255	24	349	OT2-AS	UA	abuse@omegatelecom.ua
-205.210.31.0	205.210.31.255	24	349	GOOGLE-CLOUD-PLATFORM	US	None
-64.62.197.0	64.62.197.255	24	348	HURRICANE	US	abuse@he.net
-193.47.62.0	193.47.62.255	24	347	ASN-QUADRANET-GLOBAL	US	support@quadranet.com
-66.132.195.0	66.132.195.255	24	345	-	-	-
-151.243.11.0	151.243.11.255	24	340	RASANA	IR	abuse@rasana.net
-156.225.1.0	156.225.1.255	24	332	OCTL-AS-AP OceanBlue Cloud Technology Limited	HK	sam.yang@oceanbluecloud.com
-77.67.26.0	77.67.26.255	24	331	GTT-BACKBONE GTT	US	abuse@gtt.net
-64.205.72.0	64.205.72.255	24	330	MEGAPATH2-	US	abuse@gtt.net
-138.226.239.0	138.226.239.255	24	330	-	-	-
-193.163.125.0	193.163.125.255	24	330	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-35.210.204.0	35.210.204.255	24	328	GOOGLE-2	US	google-cloud-compliance@google.com
-200.138.46.0	200.138.46.255	24	327	V tal	BR	ld-numeracaoip@oi.net.br
-185.242.226.0	185.242.226.255	24	325	AS49870-BV	NL	abuse@westcall.ru
+66.132.186.0	66.132.186.255	24	316	-	-	-
+66.132.172.0	66.132.172.255	24	305	-	-	-
+66.132.195.0	66.132.195.255	24	305	-	-	-
+65.49.1.0	65.49.1.255	24	304	HURRICANE	US	abuse@he.net
+77.239.124.0	77.239.124.255	24	304	-	-	-
+69.5.169.0	69.5.169.255	24	302	OMNIS	US	abuse@omnis.com
+185.242.226.0	185.242.226.255	24	297	AS49870-BV	NL	abuse@westcall.ru
+151.243.11.0	151.243.11.255	24	295	RASANA	IR	abuse@rasana.net
+64.205.72.0	64.205.72.255	24	292	MEGAPATH2-	US	abuse@gtt.net
+86.38.187.0	86.38.187.255	24	292	-	-	-
+147.185.132.0	147.185.132.255	24	292	GOOGLE-CLOUD-PLATFORM	US	None
+66.132.159.0	66.132.159.255	24	291	-	-	-
+77.67.26.0	77.67.26.255	24	291	GTT-BACKBONE GTT	US	abuse@gtt.net
+66.240.223.0	66.240.223.255	24	290	CARINET	US	complaints@cari.net
+167.94.146.0	167.94.146.255	24	289	CENSYS-ARIN-02	US	None
+193.163.125.0	193.163.125.255	24	288	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+199.165.159.0	199.165.159.255	24	287	-	-	-
+100.29.192.0	100.29.192.255	24	285	AMAZON-AES	US	abuse@amazonaws.com
+66.132.224.0	66.132.224.255	24	284	-	-	-
+79.124.40.0	79.124.40.255	24	284	TAMATIYA-AS	BG	noc@4vendeta.com
